@@ -1,0 +1,13 @@
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.exe
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.deps.json
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.runtimeconfig.json
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.runtimeconfig.dev.json
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.dll
+E:\projektit\Soko\soko\soko\bin\Debug\netcoreapp3.1\soko.pdb
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.csprojAssemblyReference.cache
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.AssemblyInfoInputs.cache
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.AssemblyInfo.cs
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.csproj.CoreCompileInputs.cache
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.dll
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.pdb
+E:\projektit\Soko\soko\soko\obj\Debug\netcoreapp3.1\soko.genruntimeconfig.cache
