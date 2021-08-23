@@ -1,0 +1,9 @@
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\bin\Debug\Sökö laskuri.exe.config
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\bin\Debug\Sökö laskuri.exe
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\bin\Debug\Sökö laskuri.pdb
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö_laskuri.Form1.resources
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö_laskuri.Properties.Resources.resources
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.GenerateResource.cache
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.exe
+C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.pdb

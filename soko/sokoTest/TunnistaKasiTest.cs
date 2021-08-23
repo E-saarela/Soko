@@ -11,7 +11,7 @@ namespace Testsoko
 	public  class TestTunnistaKasi
 	{
 		[Test]
-		public  void TestOnkoNeliVari112()
+		public  void TestOnkoNeliVari111()
 		{
 			var kasi = new List<Kortti>();
 			var rand = new Random();
@@ -22,7 +22,7 @@ namespace Testsoko
 			kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Hertta) ));
 			var kortitTaulukkoon = kasi.ToArray();
 			TunnistaKasi tunnistus = new TunnistaKasi();
-			Assert.AreEqual( true, tunnistus.OnkoNeliVari(kortitTaulukkoon) , "in method OnkoNeliVari, line 122");
+			Assert.AreEqual( true, tunnistus.OnkoNeliVari(kortitTaulukkoon) , "in method OnkoNeliVari, line 121");
 			var kasi2 = new List<Kortti>();
 			var rand2 = new Random();
 			kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Risti) ));
@@ -32,7 +32,7 @@ namespace Testsoko
 			kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Hertta) ));
 			var kortitTaulukkoon2 = kasi2.ToArray();
 			TunnistaKasi tunnistus2 = new TunnistaKasi();
-			Assert.AreEqual( true, tunnistus2.OnkoNeliVari(kortitTaulukkoon2) , "in method OnkoNeliVari, line 132");
+			Assert.AreEqual( true, tunnistus2.OnkoNeliVari(kortitTaulukkoon2) , "in method OnkoNeliVari, line 131");
 		}
 	}
 }
