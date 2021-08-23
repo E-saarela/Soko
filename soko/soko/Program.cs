@@ -25,7 +25,7 @@ namespace soko
 				kasi.Clear();
 				var korttienMaara = 5; //5 Korttia
 				for (int i = 0; i < korttienMaara; i++)
-				kasi.Add(new Kortti((Arvo)rand.Next(13) + 1, (Maa)rand.Next(4)));
+					kasi.Add(new Kortti((Arvo)rand.Next(13) + 1, (Maa)rand.Next(4)));
 
 				//Testataan tulostus
 				Console.WriteLine("Sinun korttisi:");
@@ -38,7 +38,7 @@ namespace soko
 				TunnistaKasi tunnistus = new TunnistaKasi();
 				SokoKasi kadentulos = tunnistus.Tunnista(kortitTaulukkoon);
 				Console.WriteLine(kadentulos.ToString());
-				System.Threading.Thread.Sleep(10000);
+				System.Threading.Thread.Sleep(5000);
 			}
 		}
 

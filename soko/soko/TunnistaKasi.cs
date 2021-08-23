@@ -20,7 +20,7 @@ namespace soko
 		VariSuora
 	}
 
-	class TunnistaKasi
+	public class TunnistaKasi
 	{
 		//Tallentaa jokaisen kortin lukumäärän kyseisessä kädessä
 		//ässä on 0 ja kuningas 12
@@ -105,7 +105,33 @@ namespace soko
 			return count;
 		}
 
-		private bool OnkoNeliVari(Kortti[] kasi)
+
+
+		/// <example>
+		/// <pre name="test">
+		/// var kasi = new List<Kortti>();
+		/// var rand = new Random();
+		/// kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Pata) ));
+		/// kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Pata) ));
+		/// kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Pata) ));
+		/// kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Pata) ));
+		/// kasi.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Hertta) ));
+		/// var kortitTaulukkoon = kasi.ToArray();
+		/// TunnistaKasi tunnistus = new TunnistaKasi();
+		/// tunnistus.OnkoNeliVari(kortitTaulukkoon) === true;
+		/// var kasi2 = new List<Kortti>();
+		/// var rand2 = new Random();
+		/// kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Risti) ));
+		/// kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Risti) ));
+		/// kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Risti) ));
+		/// kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Risti) ));
+		/// kasi2.Add(new Kortti((Arvo) rand.Next(13) + 1, (Maa.Hertta) ));
+		/// var kortitTaulukkoon2 = kasi2.ToArray();
+		/// TunnistaKasi tunnistus2 = new TunnistaKasi();
+		/// tunnistus2.OnkoNeliVari(kortitTaulukkoon2) === true;
+		/// </pre>
+		/// </example>
+		public bool OnkoNeliVari(Kortti[] kasi)
 		{
 			int[] maanMaara = { 0, 0, 0, 0 }; //padat, ristit, hertat, ruudut (tässä järjestyksessä)
 			foreach (Kortti kortti in kasi)

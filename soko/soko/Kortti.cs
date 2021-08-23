@@ -30,7 +30,7 @@ namespace soko
 	}
 
 
-	struct Kortti
+	public struct Kortti
 	{
 		public Arvo Arvo { get; private set; }
 		public Maa Maa { get; private set; }
