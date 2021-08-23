@@ -34,7 +34,11 @@ namespace soko
 					Console.WriteLine("\t" + c.ToString());
 					System.Threading.Thread.Sleep(1000);
 				}
-				System.Threading.Thread.Sleep(5000);
+				var kortitTaulukkoon = kasi.ToArray();
+				TunnistaKasi tunnistus = new TunnistaKasi();
+				SokoKasi kadentulos = tunnistus.Tunnista(kortitTaulukkoon);
+				Console.WriteLine(kadentulos.ToString());
+				System.Threading.Thread.Sleep(10000);
 			}
 		}
 
