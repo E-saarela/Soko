@@ -7,3 +7,13 @@ C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö la
 C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.CoreCompileInputs.cache
 C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.exe
 C:\Users\Omistaja\source\repos\Sökö laskuri\Sökö laskuri\obj\Debug\Sökö laskuri.pdb
+E:\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.exe.config
+E:\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.exe
+E:\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.pdb
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csprojAssemblyReference.cache
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö_laskuri.Form1.resources
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö_laskuri.Properties.Resources.resources
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.GenerateResource.cache
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.CoreCompileInputs.cache
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.exe
+E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.pdb
