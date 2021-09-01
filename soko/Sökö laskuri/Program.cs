@@ -17,6 +17,7 @@ namespace Sökö_laskuri
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
         }
     }
 }
