@@ -83,6 +83,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.pictureBox103 = new System.Windows.Forms.PictureBox();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
@@ -138,49 +139,48 @@
             this.pictureBox102 = new System.Windows.Forms.PictureBox();
             this.pata3 = new System.Windows.Forms.PictureBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.pictureBox109 = new System.Windows.Forms.PictureBox();
+            this.kasi1_5 = new System.Windows.Forms.PictureBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.pictureBox108 = new System.Windows.Forms.PictureBox();
-            this.pictureBox107 = new System.Windows.Forms.PictureBox();
-            this.pictureBox106 = new System.Windows.Forms.PictureBox();
+            this.kasi1_4 = new System.Windows.Forms.PictureBox();
+            this.kasi1_3 = new System.Windows.Forms.PictureBox();
+            this.kasi1_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox105 = new System.Windows.Forms.PictureBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.pictureBox115 = new System.Windows.Forms.PictureBox();
+            this.kasi2_5 = new System.Windows.Forms.PictureBox();
             this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.pictureBox111 = new System.Windows.Forms.PictureBox();
-            this.pictureBox112 = new System.Windows.Forms.PictureBox();
-            this.pictureBox113 = new System.Windows.Forms.PictureBox();
+            this.kasi2_4 = new System.Windows.Forms.PictureBox();
+            this.kasi2_3 = new System.Windows.Forms.PictureBox();
+            this.kasi2_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox114 = new System.Windows.Forms.PictureBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.pictureBox120 = new System.Windows.Forms.PictureBox();
+            this.kasi3_5 = new System.Windows.Forms.PictureBox();
             this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.pictureBox116 = new System.Windows.Forms.PictureBox();
-            this.pictureBox117 = new System.Windows.Forms.PictureBox();
-            this.pictureBox118 = new System.Windows.Forms.PictureBox();
+            this.kasi3_4 = new System.Windows.Forms.PictureBox();
+            this.kasi3_3 = new System.Windows.Forms.PictureBox();
+            this.kasi3_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox119 = new System.Windows.Forms.PictureBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
-            this.pictureBox110 = new System.Windows.Forms.PictureBox();
+            this.kasi4_5 = new System.Windows.Forms.PictureBox();
             this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.pictureBox121 = new System.Windows.Forms.PictureBox();
-            this.pictureBox122 = new System.Windows.Forms.PictureBox();
-            this.pictureBox123 = new System.Windows.Forms.PictureBox();
+            this.kasi4_4 = new System.Windows.Forms.PictureBox();
+            this.kasi4_3 = new System.Windows.Forms.PictureBox();
+            this.kasi4_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox124 = new System.Windows.Forms.PictureBox();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
-            this.pictureBox130 = new System.Windows.Forms.PictureBox();
+            this.kasi5_5 = new System.Windows.Forms.PictureBox();
             this.checkBox5 = new System.Windows.Forms.CheckBox();
-            this.pictureBox126 = new System.Windows.Forms.PictureBox();
-            this.pictureBox127 = new System.Windows.Forms.PictureBox();
-            this.pictureBox128 = new System.Windows.Forms.PictureBox();
+            this.kasi5_4 = new System.Windows.Forms.PictureBox();
+            this.kasi5_3 = new System.Windows.Forms.PictureBox();
+            this.kasi5_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox129 = new System.Windows.Forms.PictureBox();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
-            this.pictureBox125 = new System.Windows.Forms.PictureBox();
+            this.kasi6_5 = new System.Windows.Forms.PictureBox();
             this.checkBox6 = new System.Windows.Forms.CheckBox();
-            this.pictureBox131 = new System.Windows.Forms.PictureBox();
-            this.pictureBox132 = new System.Windows.Forms.PictureBox();
-            this.pictureBox133 = new System.Windows.Forms.PictureBox();
+            this.kasi6_4 = new System.Windows.Forms.PictureBox();
+            this.kasi6_3 = new System.Windows.Forms.PictureBox();
+            this.kasi6_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox134 = new System.Windows.Forms.PictureBox();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
-            this.pictureBox103 = new System.Windows.Forms.PictureBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox41)).BeginInit();
@@ -235,6 +235,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
             this.groupBox9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
@@ -288,43 +289,42 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pata3)).BeginInit();
             this.groupBox3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).BeginInit();
             this.groupBox4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).BeginInit();
             this.groupBox5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).BeginInit();
             this.groupBox6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox123)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).BeginInit();
             this.groupBox7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox130)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox127)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox129)).BeginInit();
             this.groupBox8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox125)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox131)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -867,6 +867,19 @@
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Valitse kortit";
+            // 
+            // pictureBox103
+            // 
+            this.pictureBox103.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pictureBox103.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBox103.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
+            this.pictureBox103.Location = new System.Drawing.Point(6, 19);
+            this.pictureBox103.Name = "pictureBox103";
+            this.pictureBox103.Size = new System.Drawing.Size(50, 75);
+            this.pictureBox103.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox103.TabIndex = 54;
+            this.pictureBox103.TabStop = false;
             // 
             // groupBox9
             // 
@@ -1566,14 +1579,15 @@
             this.pata3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata3.TabIndex = 2;
             this.pata3.TabStop = false;
+            this.pata3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pata3_MouseClick);
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.pictureBox109);
+            this.groupBox3.Controls.Add(this.kasi1_5);
             this.groupBox3.Controls.Add(this.checkBox1);
-            this.groupBox3.Controls.Add(this.pictureBox108);
-            this.groupBox3.Controls.Add(this.pictureBox107);
-            this.groupBox3.Controls.Add(this.pictureBox106);
+            this.groupBox3.Controls.Add(this.kasi1_4);
+            this.groupBox3.Controls.Add(this.kasi1_3);
+            this.groupBox3.Controls.Add(this.kasi1_2);
             this.groupBox3.Controls.Add(this.pictureBox105);
             this.groupBox3.ForeColor = System.Drawing.Color.White;
             this.groupBox3.Location = new System.Drawing.Point(12, 361);
@@ -1583,16 +1597,18 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Pelaaja 1";
             // 
-            // pictureBox109
+            // kasi1_5
             // 
-            this.pictureBox109.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox109.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox109.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox109.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox109.Name = "pictureBox109";
-            this.pictureBox109.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox109.TabIndex = 57;
-            this.pictureBox109.TabStop = false;
+            this.kasi1_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi1_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi1_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi1_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi1_5.Name = "kasi1_5";
+            this.kasi1_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi1_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi1_5.TabIndex = 57;
+            this.kasi1_5.TabStop = false;
+            this.kasi1_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi1_5_MouseClick);
             // 
             // checkBox1
             // 
@@ -1604,39 +1620,44 @@
             this.checkBox1.Text = "FOLD";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
-            // pictureBox108
+            // kasi1_4
             // 
-            this.pictureBox108.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox108.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox108.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox108.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox108.Name = "pictureBox108";
-            this.pictureBox108.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox108.TabIndex = 56;
-            this.pictureBox108.TabStop = false;
+            this.kasi1_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi1_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi1_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi1_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi1_4.Name = "kasi1_4";
+            this.kasi1_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi1_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi1_4.TabIndex = 56;
+            this.kasi1_4.TabStop = false;
+            this.kasi1_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi1_4_MouseClick);
             // 
-            // pictureBox107
+            // kasi1_3
             // 
-            this.pictureBox107.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox107.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox107.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox107.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox107.Name = "pictureBox107";
-            this.pictureBox107.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox107.TabIndex = 55;
-            this.pictureBox107.TabStop = false;
+            this.kasi1_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi1_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi1_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi1_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi1_3.Name = "kasi1_3";
+            this.kasi1_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi1_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi1_3.TabIndex = 55;
+            this.kasi1_3.TabStop = false;
+            this.kasi1_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi1_3_MouseClick);
             // 
-            // pictureBox106
+            // kasi1_2
             // 
-            this.pictureBox106.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox106.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox106.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox106.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox106.Name = "pictureBox106";
-            this.pictureBox106.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox106.TabIndex = 54;
-            this.pictureBox106.TabStop = false;
-            this.pictureBox106.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
+            this.kasi1_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi1_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi1_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi1_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi1_2.Name = "kasi1_2";
+            this.kasi1_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi1_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi1_2.TabIndex = 54;
+            this.kasi1_2.TabStop = false;
+            this.kasi1_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // pictureBox105
             // 
@@ -1653,11 +1674,11 @@
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.pictureBox115);
+            this.groupBox4.Controls.Add(this.kasi2_5);
             this.groupBox4.Controls.Add(this.checkBox2);
-            this.groupBox4.Controls.Add(this.pictureBox111);
-            this.groupBox4.Controls.Add(this.pictureBox112);
-            this.groupBox4.Controls.Add(this.pictureBox113);
+            this.groupBox4.Controls.Add(this.kasi2_4);
+            this.groupBox4.Controls.Add(this.kasi2_3);
+            this.groupBox4.Controls.Add(this.kasi2_2);
             this.groupBox4.Controls.Add(this.pictureBox114);
             this.groupBox4.ForeColor = System.Drawing.Color.White;
             this.groupBox4.Location = new System.Drawing.Point(304, 361);
@@ -1667,16 +1688,18 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Pelaaja 2";
             // 
-            // pictureBox115
+            // kasi2_5
             // 
-            this.pictureBox115.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox115.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox115.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox115.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox115.Name = "pictureBox115";
-            this.pictureBox115.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox115.TabIndex = 59;
-            this.pictureBox115.TabStop = false;
+            this.kasi2_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi2_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi2_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi2_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi2_5.Name = "kasi2_5";
+            this.kasi2_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi2_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi2_5.TabIndex = 59;
+            this.kasi2_5.TabStop = false;
+            this.kasi2_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi2_5_MouseClick);
             // 
             // checkBox2
             // 
@@ -1688,38 +1711,44 @@
             this.checkBox2.Text = "FOLD";
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
-            // pictureBox111
+            // kasi2_4
             // 
-            this.pictureBox111.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox111.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox111.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox111.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox111.Name = "pictureBox111";
-            this.pictureBox111.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox111.TabIndex = 56;
-            this.pictureBox111.TabStop = false;
+            this.kasi2_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi2_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi2_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi2_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi2_4.Name = "kasi2_4";
+            this.kasi2_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi2_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi2_4.TabIndex = 56;
+            this.kasi2_4.TabStop = false;
+            this.kasi2_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi2_4_MouseClick);
             // 
-            // pictureBox112
+            // kasi2_3
             // 
-            this.pictureBox112.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox112.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox112.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox112.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox112.Name = "pictureBox112";
-            this.pictureBox112.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox112.TabIndex = 55;
-            this.pictureBox112.TabStop = false;
+            this.kasi2_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi2_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi2_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi2_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi2_3.Name = "kasi2_3";
+            this.kasi2_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi2_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi2_3.TabIndex = 55;
+            this.kasi2_3.TabStop = false;
+            this.kasi2_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi2_3_MouseClick);
             // 
-            // pictureBox113
+            // kasi2_2
             // 
-            this.pictureBox113.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox113.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox113.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox113.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox113.Name = "pictureBox113";
-            this.pictureBox113.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox113.TabIndex = 54;
-            this.pictureBox113.TabStop = false;
+            this.kasi2_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi2_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi2_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi2_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi2_2.Name = "kasi2_2";
+            this.kasi2_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi2_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi2_2.TabIndex = 54;
+            this.kasi2_2.TabStop = false;
+            this.kasi2_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi2_2_MouseClick);
             // 
             // pictureBox114
             // 
@@ -1736,11 +1765,11 @@
             // 
             // groupBox5
             // 
-            this.groupBox5.Controls.Add(this.pictureBox120);
+            this.groupBox5.Controls.Add(this.kasi3_5);
             this.groupBox5.Controls.Add(this.checkBox3);
-            this.groupBox5.Controls.Add(this.pictureBox116);
-            this.groupBox5.Controls.Add(this.pictureBox117);
-            this.groupBox5.Controls.Add(this.pictureBox118);
+            this.groupBox5.Controls.Add(this.kasi3_4);
+            this.groupBox5.Controls.Add(this.kasi3_3);
+            this.groupBox5.Controls.Add(this.kasi3_2);
             this.groupBox5.Controls.Add(this.pictureBox119);
             this.groupBox5.ForeColor = System.Drawing.Color.White;
             this.groupBox5.Location = new System.Drawing.Point(596, 361);
@@ -1750,16 +1779,18 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Pelaaja 3";
             // 
-            // pictureBox120
+            // kasi3_5
             // 
-            this.pictureBox120.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox120.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox120.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox120.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox120.Name = "pictureBox120";
-            this.pictureBox120.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox120.TabIndex = 60;
-            this.pictureBox120.TabStop = false;
+            this.kasi3_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi3_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi3_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi3_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi3_5.Name = "kasi3_5";
+            this.kasi3_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi3_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi3_5.TabIndex = 60;
+            this.kasi3_5.TabStop = false;
+            this.kasi3_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi3_5_MouseClick);
             // 
             // checkBox3
             // 
@@ -1771,38 +1802,44 @@
             this.checkBox3.Text = "FOLD";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
-            // pictureBox116
+            // kasi3_4
             // 
-            this.pictureBox116.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox116.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox116.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox116.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox116.Name = "pictureBox116";
-            this.pictureBox116.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox116.TabIndex = 56;
-            this.pictureBox116.TabStop = false;
+            this.kasi3_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi3_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi3_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi3_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi3_4.Name = "kasi3_4";
+            this.kasi3_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi3_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi3_4.TabIndex = 56;
+            this.kasi3_4.TabStop = false;
+            this.kasi3_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi3_4_MouseClick);
             // 
-            // pictureBox117
+            // kasi3_3
             // 
-            this.pictureBox117.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox117.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox117.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox117.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox117.Name = "pictureBox117";
-            this.pictureBox117.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox117.TabIndex = 55;
-            this.pictureBox117.TabStop = false;
+            this.kasi3_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi3_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi3_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi3_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi3_3.Name = "kasi3_3";
+            this.kasi3_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi3_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi3_3.TabIndex = 55;
+            this.kasi3_3.TabStop = false;
+            this.kasi3_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi3_3_MouseClick);
             // 
-            // pictureBox118
+            // kasi3_2
             // 
-            this.pictureBox118.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox118.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox118.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox118.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox118.Name = "pictureBox118";
-            this.pictureBox118.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox118.TabIndex = 54;
-            this.pictureBox118.TabStop = false;
+            this.kasi3_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi3_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi3_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi3_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi3_2.Name = "kasi3_2";
+            this.kasi3_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi3_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi3_2.TabIndex = 54;
+            this.kasi3_2.TabStop = false;
+            this.kasi3_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi3_2_MouseClick);
             // 
             // pictureBox119
             // 
@@ -1819,11 +1856,11 @@
             // 
             // groupBox6
             // 
-            this.groupBox6.Controls.Add(this.pictureBox110);
+            this.groupBox6.Controls.Add(this.kasi4_5);
             this.groupBox6.Controls.Add(this.checkBox4);
-            this.groupBox6.Controls.Add(this.pictureBox121);
-            this.groupBox6.Controls.Add(this.pictureBox122);
-            this.groupBox6.Controls.Add(this.pictureBox123);
+            this.groupBox6.Controls.Add(this.kasi4_4);
+            this.groupBox6.Controls.Add(this.kasi4_3);
+            this.groupBox6.Controls.Add(this.kasi4_2);
             this.groupBox6.Controls.Add(this.pictureBox124);
             this.groupBox6.ForeColor = System.Drawing.Color.White;
             this.groupBox6.Location = new System.Drawing.Point(12, 498);
@@ -1833,16 +1870,18 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Pelaaja 4";
             // 
-            // pictureBox110
+            // kasi4_5
             // 
-            this.pictureBox110.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox110.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox110.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox110.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox110.Name = "pictureBox110";
-            this.pictureBox110.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox110.TabIndex = 58;
-            this.pictureBox110.TabStop = false;
+            this.kasi4_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi4_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi4_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi4_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi4_5.Name = "kasi4_5";
+            this.kasi4_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi4_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi4_5.TabIndex = 58;
+            this.kasi4_5.TabStop = false;
+            this.kasi4_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi4_5_MouseClick);
             // 
             // checkBox4
             // 
@@ -1854,38 +1893,44 @@
             this.checkBox4.Text = "FOLD";
             this.checkBox4.UseVisualStyleBackColor = true;
             // 
-            // pictureBox121
+            // kasi4_4
             // 
-            this.pictureBox121.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox121.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox121.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox121.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox121.Name = "pictureBox121";
-            this.pictureBox121.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox121.TabIndex = 56;
-            this.pictureBox121.TabStop = false;
+            this.kasi4_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi4_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi4_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi4_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi4_4.Name = "kasi4_4";
+            this.kasi4_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi4_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi4_4.TabIndex = 56;
+            this.kasi4_4.TabStop = false;
+            this.kasi4_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi4_4_MouseClick);
             // 
-            // pictureBox122
+            // kasi4_3
             // 
-            this.pictureBox122.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox122.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox122.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox122.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox122.Name = "pictureBox122";
-            this.pictureBox122.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox122.TabIndex = 55;
-            this.pictureBox122.TabStop = false;
+            this.kasi4_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi4_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi4_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi4_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi4_3.Name = "kasi4_3";
+            this.kasi4_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi4_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi4_3.TabIndex = 55;
+            this.kasi4_3.TabStop = false;
+            this.kasi4_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi4_3_MouseClick);
             // 
-            // pictureBox123
+            // kasi4_2
             // 
-            this.pictureBox123.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox123.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox123.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox123.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox123.Name = "pictureBox123";
-            this.pictureBox123.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox123.TabIndex = 54;
-            this.pictureBox123.TabStop = false;
+            this.kasi4_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi4_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi4_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi4_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi4_2.Name = "kasi4_2";
+            this.kasi4_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi4_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi4_2.TabIndex = 54;
+            this.kasi4_2.TabStop = false;
+            this.kasi4_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi4_2_MouseClick);
             // 
             // pictureBox124
             // 
@@ -1902,11 +1947,11 @@
             // 
             // groupBox7
             // 
-            this.groupBox7.Controls.Add(this.pictureBox130);
+            this.groupBox7.Controls.Add(this.kasi5_5);
             this.groupBox7.Controls.Add(this.checkBox5);
-            this.groupBox7.Controls.Add(this.pictureBox126);
-            this.groupBox7.Controls.Add(this.pictureBox127);
-            this.groupBox7.Controls.Add(this.pictureBox128);
+            this.groupBox7.Controls.Add(this.kasi5_4);
+            this.groupBox7.Controls.Add(this.kasi5_3);
+            this.groupBox7.Controls.Add(this.kasi5_2);
             this.groupBox7.Controls.Add(this.pictureBox129);
             this.groupBox7.ForeColor = System.Drawing.Color.White;
             this.groupBox7.Location = new System.Drawing.Point(304, 498);
@@ -1916,16 +1961,18 @@
             this.groupBox7.TabStop = false;
             this.groupBox7.Text = "Pelaaja 5";
             // 
-            // pictureBox130
+            // kasi5_5
             // 
-            this.pictureBox130.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox130.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox130.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox130.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox130.Name = "pictureBox130";
-            this.pictureBox130.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox130.TabIndex = 57;
-            this.pictureBox130.TabStop = false;
+            this.kasi5_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi5_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi5_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi5_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi5_5.Name = "kasi5_5";
+            this.kasi5_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi5_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi5_5.TabIndex = 57;
+            this.kasi5_5.TabStop = false;
+            this.kasi5_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi5_5_MouseClick);
             // 
             // checkBox5
             // 
@@ -1937,38 +1984,44 @@
             this.checkBox5.Text = "FOLD";
             this.checkBox5.UseVisualStyleBackColor = true;
             // 
-            // pictureBox126
+            // kasi5_4
             // 
-            this.pictureBox126.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox126.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox126.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox126.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox126.Name = "pictureBox126";
-            this.pictureBox126.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox126.TabIndex = 56;
-            this.pictureBox126.TabStop = false;
+            this.kasi5_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi5_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi5_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi5_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi5_4.Name = "kasi5_4";
+            this.kasi5_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi5_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi5_4.TabIndex = 56;
+            this.kasi5_4.TabStop = false;
+            this.kasi5_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi5_4_MouseClick);
             // 
-            // pictureBox127
+            // kasi5_3
             // 
-            this.pictureBox127.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox127.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox127.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox127.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox127.Name = "pictureBox127";
-            this.pictureBox127.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox127.TabIndex = 55;
-            this.pictureBox127.TabStop = false;
+            this.kasi5_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi5_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi5_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi5_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi5_3.Name = "kasi5_3";
+            this.kasi5_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi5_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi5_3.TabIndex = 55;
+            this.kasi5_3.TabStop = false;
+            this.kasi5_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi5_3_MouseClick);
             // 
-            // pictureBox128
+            // kasi5_2
             // 
-            this.pictureBox128.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox128.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox128.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox128.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox128.Name = "pictureBox128";
-            this.pictureBox128.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox128.TabIndex = 54;
-            this.pictureBox128.TabStop = false;
+            this.kasi5_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi5_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi5_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi5_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi5_2.Name = "kasi5_2";
+            this.kasi5_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi5_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi5_2.TabIndex = 54;
+            this.kasi5_2.TabStop = false;
+            this.kasi5_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi5_2_MouseClick);
             // 
             // pictureBox129
             // 
@@ -1985,11 +2038,11 @@
             // 
             // groupBox8
             // 
-            this.groupBox8.Controls.Add(this.pictureBox125);
+            this.groupBox8.Controls.Add(this.kasi6_5);
             this.groupBox8.Controls.Add(this.checkBox6);
-            this.groupBox8.Controls.Add(this.pictureBox131);
-            this.groupBox8.Controls.Add(this.pictureBox132);
-            this.groupBox8.Controls.Add(this.pictureBox133);
+            this.groupBox8.Controls.Add(this.kasi6_4);
+            this.groupBox8.Controls.Add(this.kasi6_3);
+            this.groupBox8.Controls.Add(this.kasi6_2);
             this.groupBox8.Controls.Add(this.pictureBox134);
             this.groupBox8.ForeColor = System.Drawing.Color.White;
             this.groupBox8.Location = new System.Drawing.Point(596, 498);
@@ -1999,16 +2052,18 @@
             this.groupBox8.TabStop = false;
             this.groupBox8.Text = "Pelaaja 6";
             // 
-            // pictureBox125
+            // kasi6_5
             // 
-            this.pictureBox125.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox125.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox125.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox125.Location = new System.Drawing.Point(230, 50);
-            this.pictureBox125.Name = "pictureBox125";
-            this.pictureBox125.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox125.TabIndex = 61;
-            this.pictureBox125.TabStop = false;
+            this.kasi6_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi6_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi6_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi6_5.Location = new System.Drawing.Point(230, 50);
+            this.kasi6_5.Name = "kasi6_5";
+            this.kasi6_5.Size = new System.Drawing.Size(50, 75);
+            this.kasi6_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi6_5.TabIndex = 61;
+            this.kasi6_5.TabStop = false;
+            this.kasi6_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi6_5_MouseClick);
             // 
             // checkBox6
             // 
@@ -2020,38 +2075,44 @@
             this.checkBox6.Text = "FOLD";
             this.checkBox6.UseVisualStyleBackColor = true;
             // 
-            // pictureBox131
+            // kasi6_4
             // 
-            this.pictureBox131.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox131.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox131.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox131.Location = new System.Drawing.Point(174, 50);
-            this.pictureBox131.Name = "pictureBox131";
-            this.pictureBox131.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox131.TabIndex = 56;
-            this.pictureBox131.TabStop = false;
+            this.kasi6_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi6_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi6_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi6_4.Location = new System.Drawing.Point(174, 50);
+            this.kasi6_4.Name = "kasi6_4";
+            this.kasi6_4.Size = new System.Drawing.Size(50, 75);
+            this.kasi6_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi6_4.TabIndex = 56;
+            this.kasi6_4.TabStop = false;
+            this.kasi6_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi6_4_MouseClick);
             // 
-            // pictureBox132
+            // kasi6_3
             // 
-            this.pictureBox132.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox132.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox132.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox132.Location = new System.Drawing.Point(118, 50);
-            this.pictureBox132.Name = "pictureBox132";
-            this.pictureBox132.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox132.TabIndex = 55;
-            this.pictureBox132.TabStop = false;
+            this.kasi6_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi6_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi6_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi6_3.Location = new System.Drawing.Point(118, 50);
+            this.kasi6_3.Name = "kasi6_3";
+            this.kasi6_3.Size = new System.Drawing.Size(50, 75);
+            this.kasi6_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi6_3.TabIndex = 55;
+            this.kasi6_3.TabStop = false;
+            this.kasi6_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi6_3_MouseClick);
             // 
-            // pictureBox133
+            // kasi6_2
             // 
-            this.pictureBox133.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox133.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox133.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox133.Location = new System.Drawing.Point(62, 50);
-            this.pictureBox133.Name = "pictureBox133";
-            this.pictureBox133.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox133.TabIndex = 54;
-            this.pictureBox133.TabStop = false;
+            this.kasi6_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.kasi6_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.kasi6_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.kasi6_2.Location = new System.Drawing.Point(62, 50);
+            this.kasi6_2.Name = "kasi6_2";
+            this.kasi6_2.Size = new System.Drawing.Size(50, 75);
+            this.kasi6_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.kasi6_2.TabIndex = 54;
+            this.kasi6_2.TabStop = false;
+            this.kasi6_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi6_2_MouseClick);
             // 
             // pictureBox134
             // 
@@ -2070,19 +2131,6 @@
             // 
             this.fileSystemWatcher1.EnableRaisingEvents = true;
             this.fileSystemWatcher1.SynchronizingObject = this;
-            // 
-            // pictureBox103
-            // 
-            this.pictureBox103.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox103.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox103.Image = global::Sökö_laskuri.Properties.Resources._3_e088d25fb2cf1377233f09d93d5a4712;
-            this.pictureBox103.Location = new System.Drawing.Point(6, 19);
-            this.pictureBox103.Name = "pictureBox103";
-            this.pictureBox103.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox103.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox103.TabIndex = 54;
-            this.pictureBox103.TabStop = false;
             // 
             // Form1
             // 
@@ -2159,6 +2207,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
@@ -2214,48 +2263,47 @@
             ((System.ComponentModel.ISupportInitialize)(this.pata3)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi1_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).EndInit();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi2_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).EndInit();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi3_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).EndInit();
             this.groupBox6.ResumeLayout(false);
             this.groupBox6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox123)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi4_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox124)).EndInit();
             this.groupBox7.ResumeLayout(false);
             this.groupBox7.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox130)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox126)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox127)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox128)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi5_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox129)).EndInit();
             this.groupBox8.ResumeLayout(false);
             this.groupBox8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox125)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox131)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox132)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox133)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.kasi6_2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -2369,48 +2417,48 @@
         private System.Windows.Forms.PictureBox pata3;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.PictureBox pictureBox108;
-        private System.Windows.Forms.PictureBox pictureBox107;
-        private System.Windows.Forms.PictureBox pictureBox106;
+        private System.Windows.Forms.PictureBox kasi1_4;
+        private System.Windows.Forms.PictureBox kasi1_3;
+        private System.Windows.Forms.PictureBox kasi1_2;
         private System.Windows.Forms.PictureBox pictureBox105;
         private System.Windows.Forms.GroupBox groupBox9;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.PictureBox pictureBox111;
-        private System.Windows.Forms.PictureBox pictureBox112;
-        private System.Windows.Forms.PictureBox pictureBox113;
+        private System.Windows.Forms.PictureBox kasi2_4;
+        private System.Windows.Forms.PictureBox kasi2_3;
+        private System.Windows.Forms.PictureBox kasi2_2;
         private System.Windows.Forms.PictureBox pictureBox114;
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.PictureBox pictureBox116;
-        private System.Windows.Forms.PictureBox pictureBox117;
-        private System.Windows.Forms.PictureBox pictureBox118;
+        private System.Windows.Forms.PictureBox kasi3_4;
+        private System.Windows.Forms.PictureBox kasi3_3;
+        private System.Windows.Forms.PictureBox kasi3_2;
         private System.Windows.Forms.PictureBox pictureBox119;
         private System.Windows.Forms.GroupBox groupBox6;
         private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.PictureBox pictureBox121;
-        private System.Windows.Forms.PictureBox pictureBox122;
-        private System.Windows.Forms.PictureBox pictureBox123;
+        private System.Windows.Forms.PictureBox kasi4_4;
+        private System.Windows.Forms.PictureBox kasi4_3;
+        private System.Windows.Forms.PictureBox kasi4_2;
         private System.Windows.Forms.PictureBox pictureBox124;
         private System.Windows.Forms.GroupBox groupBox7;
         private System.Windows.Forms.CheckBox checkBox5;
-        private System.Windows.Forms.PictureBox pictureBox126;
-        private System.Windows.Forms.PictureBox pictureBox127;
-        private System.Windows.Forms.PictureBox pictureBox128;
+        private System.Windows.Forms.PictureBox kasi5_4;
+        private System.Windows.Forms.PictureBox kasi5_3;
+        private System.Windows.Forms.PictureBox kasi5_2;
         private System.Windows.Forms.PictureBox pictureBox129;
         private System.Windows.Forms.GroupBox groupBox8;
         private System.Windows.Forms.CheckBox checkBox6;
-        private System.Windows.Forms.PictureBox pictureBox131;
-        private System.Windows.Forms.PictureBox pictureBox132;
-        private System.Windows.Forms.PictureBox pictureBox133;
+        private System.Windows.Forms.PictureBox kasi6_4;
+        private System.Windows.Forms.PictureBox kasi6_3;
+        private System.Windows.Forms.PictureBox kasi6_2;
         private System.Windows.Forms.PictureBox pictureBox134;
-        private System.Windows.Forms.PictureBox pictureBox109;
-        private System.Windows.Forms.PictureBox pictureBox115;
-        private System.Windows.Forms.PictureBox pictureBox120;
-        private System.Windows.Forms.PictureBox pictureBox110;
-        private System.Windows.Forms.PictureBox pictureBox130;
-        private System.Windows.Forms.PictureBox pictureBox125;
+        private System.Windows.Forms.PictureBox kasi1_5;
+        private System.Windows.Forms.PictureBox kasi2_5;
+        private System.Windows.Forms.PictureBox kasi3_5;
+        private System.Windows.Forms.PictureBox kasi4_5;
+        private System.Windows.Forms.PictureBox kasi5_5;
+        private System.Windows.Forms.PictureBox kasi6_5;
         private System.Windows.Forms.Label label1;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
         private System.Windows.Forms.PictureBox pictureBox103;
