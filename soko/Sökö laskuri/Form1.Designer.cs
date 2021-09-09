@@ -83,60 +83,60 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.pictureBox103 = new System.Windows.Forms.PictureBox();
+            this.pata2 = new System.Windows.Forms.PictureBox();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.pictureBox79 = new System.Windows.Forms.PictureBox();
-            this.pictureBox80 = new System.Windows.Forms.PictureBox();
-            this.pictureBox81 = new System.Windows.Forms.PictureBox();
-            this.pictureBox82 = new System.Windows.Forms.PictureBox();
-            this.pictureBox83 = new System.Windows.Forms.PictureBox();
-            this.pictureBox84 = new System.Windows.Forms.PictureBox();
-            this.pictureBox85 = new System.Windows.Forms.PictureBox();
-            this.pictureBox86 = new System.Windows.Forms.PictureBox();
-            this.pictureBox87 = new System.Windows.Forms.PictureBox();
-            this.pictureBox88 = new System.Windows.Forms.PictureBox();
-            this.pictureBox89 = new System.Windows.Forms.PictureBox();
-            this.pictureBox90 = new System.Windows.Forms.PictureBox();
-            this.pictureBox91 = new System.Windows.Forms.PictureBox();
-            this.pictureBox66 = new System.Windows.Forms.PictureBox();
-            this.pictureBox67 = new System.Windows.Forms.PictureBox();
-            this.pictureBox68 = new System.Windows.Forms.PictureBox();
-            this.pictureBox69 = new System.Windows.Forms.PictureBox();
-            this.pictureBox70 = new System.Windows.Forms.PictureBox();
-            this.pictureBox71 = new System.Windows.Forms.PictureBox();
-            this.pictureBox72 = new System.Windows.Forms.PictureBox();
-            this.pictureBox73 = new System.Windows.Forms.PictureBox();
-            this.pictureBox74 = new System.Windows.Forms.PictureBox();
-            this.pictureBox75 = new System.Windows.Forms.PictureBox();
-            this.pictureBox76 = new System.Windows.Forms.PictureBox();
-            this.pictureBox77 = new System.Windows.Forms.PictureBox();
-            this.pictureBox78 = new System.Windows.Forms.PictureBox();
-            this.pictureBox53 = new System.Windows.Forms.PictureBox();
-            this.pictureBox54 = new System.Windows.Forms.PictureBox();
-            this.pictureBox55 = new System.Windows.Forms.PictureBox();
-            this.pictureBox56 = new System.Windows.Forms.PictureBox();
-            this.pictureBox57 = new System.Windows.Forms.PictureBox();
-            this.pictureBox58 = new System.Windows.Forms.PictureBox();
-            this.pictureBox59 = new System.Windows.Forms.PictureBox();
-            this.pictureBox60 = new System.Windows.Forms.PictureBox();
-            this.pictureBox61 = new System.Windows.Forms.PictureBox();
-            this.pictureBox62 = new System.Windows.Forms.PictureBox();
-            this.pictureBox63 = new System.Windows.Forms.PictureBox();
-            this.pictureBox64 = new System.Windows.Forms.PictureBox();
-            this.pictureBox65 = new System.Windows.Forms.PictureBox();
-            this.pictureBox92 = new System.Windows.Forms.PictureBox();
-            this.pictureBox93 = new System.Windows.Forms.PictureBox();
-            this.pictureBox94 = new System.Windows.Forms.PictureBox();
-            this.pictureBox95 = new System.Windows.Forms.PictureBox();
-            this.pictureBox96 = new System.Windows.Forms.PictureBox();
-            this.pictureBox97 = new System.Windows.Forms.PictureBox();
-            this.pictureBox98 = new System.Windows.Forms.PictureBox();
-            this.pictureBox99 = new System.Windows.Forms.PictureBox();
-            this.pictureBox100 = new System.Windows.Forms.PictureBox();
-            this.pictureBox101 = new System.Windows.Forms.PictureBox();
-            this.pictureBox102 = new System.Windows.Forms.PictureBox();
+            this.pelatutK = new System.Windows.Forms.Label();
+            this.resetButton = new System.Windows.Forms.Button();
+            this.ruutuA = new System.Windows.Forms.PictureBox();
+            this.ruutuK = new System.Windows.Forms.PictureBox();
+            this.ruutuQ = new System.Windows.Forms.PictureBox();
+            this.ruutuJ = new System.Windows.Forms.PictureBox();
+            this.ruutu10 = new System.Windows.Forms.PictureBox();
+            this.ruutu9 = new System.Windows.Forms.PictureBox();
+            this.ruutu8 = new System.Windows.Forms.PictureBox();
+            this.ruutu7 = new System.Windows.Forms.PictureBox();
+            this.ruutu6 = new System.Windows.Forms.PictureBox();
+            this.ruutu5 = new System.Windows.Forms.PictureBox();
+            this.ruutu4 = new System.Windows.Forms.PictureBox();
+            this.ruutu3 = new System.Windows.Forms.PictureBox();
+            this.ruutu2 = new System.Windows.Forms.PictureBox();
+            this.herttaA = new System.Windows.Forms.PictureBox();
+            this.herttaK = new System.Windows.Forms.PictureBox();
+            this.herttaQ = new System.Windows.Forms.PictureBox();
+            this.herttaJ = new System.Windows.Forms.PictureBox();
+            this.hertta10 = new System.Windows.Forms.PictureBox();
+            this.hertta9 = new System.Windows.Forms.PictureBox();
+            this.hertta8 = new System.Windows.Forms.PictureBox();
+            this.hertta7 = new System.Windows.Forms.PictureBox();
+            this.hertta6 = new System.Windows.Forms.PictureBox();
+            this.hertta5 = new System.Windows.Forms.PictureBox();
+            this.hertta4 = new System.Windows.Forms.PictureBox();
+            this.hertta3 = new System.Windows.Forms.PictureBox();
+            this.hertta2 = new System.Windows.Forms.PictureBox();
+            this.ristiA = new System.Windows.Forms.PictureBox();
+            this.ristiK = new System.Windows.Forms.PictureBox();
+            this.ristiQ = new System.Windows.Forms.PictureBox();
+            this.ristiJ = new System.Windows.Forms.PictureBox();
+            this.risti10 = new System.Windows.Forms.PictureBox();
+            this.risti9 = new System.Windows.Forms.PictureBox();
+            this.risti8 = new System.Windows.Forms.PictureBox();
+            this.risti7 = new System.Windows.Forms.PictureBox();
+            this.risti6 = new System.Windows.Forms.PictureBox();
+            this.risti5 = new System.Windows.Forms.PictureBox();
+            this.risti4 = new System.Windows.Forms.PictureBox();
+            this.risti3 = new System.Windows.Forms.PictureBox();
+            this.risti2 = new System.Windows.Forms.PictureBox();
+            this.pataA = new System.Windows.Forms.PictureBox();
+            this.pataK = new System.Windows.Forms.PictureBox();
+            this.pataQ = new System.Windows.Forms.PictureBox();
+            this.pataJ = new System.Windows.Forms.PictureBox();
+            this.pata10 = new System.Windows.Forms.PictureBox();
+            this.pata9 = new System.Windows.Forms.PictureBox();
+            this.pata8 = new System.Windows.Forms.PictureBox();
+            this.pata7 = new System.Windows.Forms.PictureBox();
+            this.pata6 = new System.Windows.Forms.PictureBox();
+            this.pata5 = new System.Windows.Forms.PictureBox();
+            this.pata4 = new System.Windows.Forms.PictureBox();
             this.pata3 = new System.Windows.Forms.PictureBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.kasi1_5 = new System.Windows.Forms.PictureBox();
@@ -181,6 +181,7 @@
             this.kasi6_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox134 = new System.Windows.Forms.PictureBox();
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox40)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox41)).BeginInit();
@@ -235,58 +236,58 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata2)).BeginInit();
             this.groupBox9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox84)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox85)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox86)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox90)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox91)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox53)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox57)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox58)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox62)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox63)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuA)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuK)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuQ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuJ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaA)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaK)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaQ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaJ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiA)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiK)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiQ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiJ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataA)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataK)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataQ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataJ)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pata3)).BeginInit();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.kasi1_5)).BeginInit();
@@ -807,58 +808,58 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.pictureBox103);
+            this.groupBox2.Controls.Add(this.pata2);
             this.groupBox2.Controls.Add(this.groupBox9);
-            this.groupBox2.Controls.Add(this.pictureBox79);
-            this.groupBox2.Controls.Add(this.pictureBox80);
-            this.groupBox2.Controls.Add(this.pictureBox81);
-            this.groupBox2.Controls.Add(this.pictureBox82);
-            this.groupBox2.Controls.Add(this.pictureBox83);
-            this.groupBox2.Controls.Add(this.pictureBox84);
-            this.groupBox2.Controls.Add(this.pictureBox85);
-            this.groupBox2.Controls.Add(this.pictureBox86);
-            this.groupBox2.Controls.Add(this.pictureBox87);
-            this.groupBox2.Controls.Add(this.pictureBox88);
-            this.groupBox2.Controls.Add(this.pictureBox89);
-            this.groupBox2.Controls.Add(this.pictureBox90);
-            this.groupBox2.Controls.Add(this.pictureBox91);
-            this.groupBox2.Controls.Add(this.pictureBox66);
-            this.groupBox2.Controls.Add(this.pictureBox67);
-            this.groupBox2.Controls.Add(this.pictureBox68);
-            this.groupBox2.Controls.Add(this.pictureBox69);
-            this.groupBox2.Controls.Add(this.pictureBox70);
-            this.groupBox2.Controls.Add(this.pictureBox71);
-            this.groupBox2.Controls.Add(this.pictureBox72);
-            this.groupBox2.Controls.Add(this.pictureBox73);
-            this.groupBox2.Controls.Add(this.pictureBox74);
-            this.groupBox2.Controls.Add(this.pictureBox75);
-            this.groupBox2.Controls.Add(this.pictureBox76);
-            this.groupBox2.Controls.Add(this.pictureBox77);
-            this.groupBox2.Controls.Add(this.pictureBox78);
-            this.groupBox2.Controls.Add(this.pictureBox53);
-            this.groupBox2.Controls.Add(this.pictureBox54);
-            this.groupBox2.Controls.Add(this.pictureBox55);
-            this.groupBox2.Controls.Add(this.pictureBox56);
-            this.groupBox2.Controls.Add(this.pictureBox57);
-            this.groupBox2.Controls.Add(this.pictureBox58);
-            this.groupBox2.Controls.Add(this.pictureBox59);
-            this.groupBox2.Controls.Add(this.pictureBox60);
-            this.groupBox2.Controls.Add(this.pictureBox61);
-            this.groupBox2.Controls.Add(this.pictureBox62);
-            this.groupBox2.Controls.Add(this.pictureBox63);
-            this.groupBox2.Controls.Add(this.pictureBox64);
-            this.groupBox2.Controls.Add(this.pictureBox65);
-            this.groupBox2.Controls.Add(this.pictureBox92);
-            this.groupBox2.Controls.Add(this.pictureBox93);
-            this.groupBox2.Controls.Add(this.pictureBox94);
-            this.groupBox2.Controls.Add(this.pictureBox95);
-            this.groupBox2.Controls.Add(this.pictureBox96);
-            this.groupBox2.Controls.Add(this.pictureBox97);
-            this.groupBox2.Controls.Add(this.pictureBox98);
-            this.groupBox2.Controls.Add(this.pictureBox99);
-            this.groupBox2.Controls.Add(this.pictureBox100);
-            this.groupBox2.Controls.Add(this.pictureBox101);
-            this.groupBox2.Controls.Add(this.pictureBox102);
+            this.groupBox2.Controls.Add(this.ruutuA);
+            this.groupBox2.Controls.Add(this.ruutuK);
+            this.groupBox2.Controls.Add(this.ruutuQ);
+            this.groupBox2.Controls.Add(this.ruutuJ);
+            this.groupBox2.Controls.Add(this.ruutu10);
+            this.groupBox2.Controls.Add(this.ruutu9);
+            this.groupBox2.Controls.Add(this.ruutu8);
+            this.groupBox2.Controls.Add(this.ruutu7);
+            this.groupBox2.Controls.Add(this.ruutu6);
+            this.groupBox2.Controls.Add(this.ruutu5);
+            this.groupBox2.Controls.Add(this.ruutu4);
+            this.groupBox2.Controls.Add(this.ruutu3);
+            this.groupBox2.Controls.Add(this.ruutu2);
+            this.groupBox2.Controls.Add(this.herttaA);
+            this.groupBox2.Controls.Add(this.herttaK);
+            this.groupBox2.Controls.Add(this.herttaQ);
+            this.groupBox2.Controls.Add(this.herttaJ);
+            this.groupBox2.Controls.Add(this.hertta10);
+            this.groupBox2.Controls.Add(this.hertta9);
+            this.groupBox2.Controls.Add(this.hertta8);
+            this.groupBox2.Controls.Add(this.hertta7);
+            this.groupBox2.Controls.Add(this.hertta6);
+            this.groupBox2.Controls.Add(this.hertta5);
+            this.groupBox2.Controls.Add(this.hertta4);
+            this.groupBox2.Controls.Add(this.hertta3);
+            this.groupBox2.Controls.Add(this.hertta2);
+            this.groupBox2.Controls.Add(this.ristiA);
+            this.groupBox2.Controls.Add(this.ristiK);
+            this.groupBox2.Controls.Add(this.ristiQ);
+            this.groupBox2.Controls.Add(this.ristiJ);
+            this.groupBox2.Controls.Add(this.risti10);
+            this.groupBox2.Controls.Add(this.risti9);
+            this.groupBox2.Controls.Add(this.risti8);
+            this.groupBox2.Controls.Add(this.risti7);
+            this.groupBox2.Controls.Add(this.risti6);
+            this.groupBox2.Controls.Add(this.risti5);
+            this.groupBox2.Controls.Add(this.risti4);
+            this.groupBox2.Controls.Add(this.risti3);
+            this.groupBox2.Controls.Add(this.risti2);
+            this.groupBox2.Controls.Add(this.pataA);
+            this.groupBox2.Controls.Add(this.pataK);
+            this.groupBox2.Controls.Add(this.pataQ);
+            this.groupBox2.Controls.Add(this.pataJ);
+            this.groupBox2.Controls.Add(this.pata10);
+            this.groupBox2.Controls.Add(this.pata9);
+            this.groupBox2.Controls.Add(this.pata8);
+            this.groupBox2.Controls.Add(this.pata7);
+            this.groupBox2.Controls.Add(this.pata6);
+            this.groupBox2.Controls.Add(this.pata5);
+            this.groupBox2.Controls.Add(this.pata4);
             this.groupBox2.Controls.Add(this.pata3);
             this.groupBox2.ForeColor = System.Drawing.Color.White;
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
@@ -868,23 +869,24 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Valitse kortit";
             // 
-            // pictureBox103
+            // pata2
             // 
-            this.pictureBox103.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox103.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox103.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
-            this.pictureBox103.Location = new System.Drawing.Point(6, 19);
-            this.pictureBox103.Name = "pictureBox103";
-            this.pictureBox103.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox103.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox103.TabIndex = 54;
-            this.pictureBox103.TabStop = false;
+            this.pata2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata2.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
+            this.pata2.Location = new System.Drawing.Point(6, 19);
+            this.pata2.Name = "pata2";
+            this.pata2.Size = new System.Drawing.Size(50, 75);
+            this.pata2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata2.TabIndex = 54;
+            this.pata2.TabStop = false;
+            this.pata2.Click += new System.EventHandler(this.pata2_Click);
             // 
             // groupBox9
             // 
-            this.groupBox9.Controls.Add(this.label1);
-            this.groupBox9.Controls.Add(this.button1);
+            this.groupBox9.Controls.Add(this.pelatutK);
+            this.groupBox9.Controls.Add(this.resetButton);
             this.groupBox9.ForeColor = System.Drawing.Color.White;
             this.groupBox9.ImeMode = System.Windows.Forms.ImeMode.Off;
             this.groupBox9.Location = new System.Drawing.Point(734, 19);
@@ -895,677 +897,728 @@
             this.groupBox9.Text = "Asetukset";
             this.groupBox9.Enter += new System.EventHandler(this.groupBox9_Enter);
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(18, 62);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 16);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Pelatut kortit : 0";
-            // 
-            // button1
-            // 
-            this.button1.AutoSize = true;
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.System;
-            this.button1.Location = new System.Drawing.Point(24, 19);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 25);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Reset";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // pictureBox79
-            // 
-            this.pictureBox79.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox79.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox79.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox79.Image = global::Sökö_laskuri.Properties.Resources.A_11c73136d0af53baf0b1cf04c31d016e;
-            this.pictureBox79.Location = new System.Drawing.Point(678, 262);
-            this.pictureBox79.Name = "pictureBox79";
-            this.pictureBox79.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox79.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox79.TabIndex = 52;
-            this.pictureBox79.TabStop = false;
-            // 
-            // pictureBox80
-            // 
-            this.pictureBox80.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox80.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox80.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox80.Image = global::Sökö_laskuri.Properties.Resources.K_d19ab44b124bb26202fd7907ec06b74e;
-            this.pictureBox80.Location = new System.Drawing.Point(622, 262);
-            this.pictureBox80.Name = "pictureBox80";
-            this.pictureBox80.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox80.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox80.TabIndex = 51;
-            this.pictureBox80.TabStop = false;
-            // 
-            // pictureBox81
-            // 
-            this.pictureBox81.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox81.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox81.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox81.Image = global::Sökö_laskuri.Properties.Resources.Q_7b0af4160c80c45cf6b3aa76951eecd2;
-            this.pictureBox81.Location = new System.Drawing.Point(566, 262);
-            this.pictureBox81.Name = "pictureBox81";
-            this.pictureBox81.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox81.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox81.TabIndex = 50;
-            this.pictureBox81.TabStop = false;
-            // 
-            // pictureBox82
-            // 
-            this.pictureBox82.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox82.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox82.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox82.Image = global::Sökö_laskuri.Properties.Resources.J_852e042c517e09a92486ce213423fc11;
-            this.pictureBox82.Location = new System.Drawing.Point(510, 262);
-            this.pictureBox82.Name = "pictureBox82";
-            this.pictureBox82.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox82.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox82.TabIndex = 49;
-            this.pictureBox82.TabStop = false;
-            // 
-            // pictureBox83
-            // 
-            this.pictureBox83.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox83.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox83.Image = global::Sökö_laskuri.Properties.Resources.T_a7c47c3ab1be0c2e5c00cfab8d4371bd;
-            this.pictureBox83.Location = new System.Drawing.Point(454, 262);
-            this.pictureBox83.Name = "pictureBox83";
-            this.pictureBox83.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox83.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox83.TabIndex = 48;
-            this.pictureBox83.TabStop = false;
-            // 
-            // pictureBox84
-            // 
-            this.pictureBox84.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox84.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox84.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox84.Image = global::Sökö_laskuri.Properties.Resources._9_72d48c18490adb38af9a8583ffc480b1;
-            this.pictureBox84.Location = new System.Drawing.Point(398, 262);
-            this.pictureBox84.Name = "pictureBox84";
-            this.pictureBox84.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox84.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox84.TabIndex = 47;
-            this.pictureBox84.TabStop = false;
-            // 
-            // pictureBox85
-            // 
-            this.pictureBox85.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox85.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox85.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox85.Image = global::Sökö_laskuri.Properties.Resources._8_d9c46c7826673184793734670dfee92d;
-            this.pictureBox85.Location = new System.Drawing.Point(342, 262);
-            this.pictureBox85.Name = "pictureBox85";
-            this.pictureBox85.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox85.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox85.TabIndex = 46;
-            this.pictureBox85.TabStop = false;
-            // 
-            // pictureBox86
-            // 
-            this.pictureBox86.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox86.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox86.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox86.Image = global::Sökö_laskuri.Properties.Resources._7_22269186558dfb327a391b56e0516b2f;
-            this.pictureBox86.Location = new System.Drawing.Point(286, 262);
-            this.pictureBox86.Name = "pictureBox86";
-            this.pictureBox86.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox86.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox86.TabIndex = 45;
-            this.pictureBox86.TabStop = false;
-            // 
-            // pictureBox87
-            // 
-            this.pictureBox87.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox87.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox87.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox87.Image = global::Sökö_laskuri.Properties.Resources._6_b4b8865fd75ed4ecd4360e73c70de537;
-            this.pictureBox87.Location = new System.Drawing.Point(230, 262);
-            this.pictureBox87.Name = "pictureBox87";
-            this.pictureBox87.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox87.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox87.TabIndex = 44;
-            this.pictureBox87.TabStop = false;
-            // 
-            // pictureBox88
-            // 
-            this.pictureBox88.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox88.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox88.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox88.Image = global::Sökö_laskuri.Properties.Resources._5_409cb091d7e78524f457c47453621e0b;
-            this.pictureBox88.Location = new System.Drawing.Point(174, 262);
-            this.pictureBox88.Name = "pictureBox88";
-            this.pictureBox88.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox88.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox88.TabIndex = 43;
-            this.pictureBox88.TabStop = false;
-            // 
-            // pictureBox89
-            // 
-            this.pictureBox89.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox89.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox89.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox89.Image = global::Sökö_laskuri.Properties.Resources._4_dd762d285d0d7a816565c3e1a54887a0;
-            this.pictureBox89.Location = new System.Drawing.Point(118, 262);
-            this.pictureBox89.Name = "pictureBox89";
-            this.pictureBox89.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox89.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox89.TabIndex = 42;
-            this.pictureBox89.TabStop = false;
-            // 
-            // pictureBox90
-            // 
-            this.pictureBox90.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox90.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox90.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox90.Image = global::Sökö_laskuri.Properties.Resources._3_358a5ccaa0bce1fb4922cc59646e8688;
-            this.pictureBox90.Location = new System.Drawing.Point(62, 262);
-            this.pictureBox90.Name = "pictureBox90";
-            this.pictureBox90.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox90.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox90.TabIndex = 41;
-            this.pictureBox90.TabStop = false;
-            // 
-            // pictureBox91
-            // 
-            this.pictureBox91.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox91.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox91.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox91.Image = global::Sökö_laskuri.Properties.Resources._2_2e6810bdef979c5572285928cfdd68791;
-            this.pictureBox91.Location = new System.Drawing.Point(6, 262);
-            this.pictureBox91.Name = "pictureBox91";
-            this.pictureBox91.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox91.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox91.TabIndex = 40;
-            this.pictureBox91.TabStop = false;
-            // 
-            // pictureBox66
-            // 
-            this.pictureBox66.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox66.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox66.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox66.Image = global::Sökö_laskuri.Properties.Resources.A_2cc1611190e49d0efef6b87f54cbf401;
-            this.pictureBox66.Location = new System.Drawing.Point(678, 181);
-            this.pictureBox66.Name = "pictureBox66";
-            this.pictureBox66.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox66.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox66.TabIndex = 39;
-            this.pictureBox66.TabStop = false;
-            // 
-            // pictureBox67
-            // 
-            this.pictureBox67.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox67.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox67.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox67.Image = global::Sökö_laskuri.Properties.Resources.K_1937a84a0020eef4aba9eecc475342f0;
-            this.pictureBox67.Location = new System.Drawing.Point(622, 181);
-            this.pictureBox67.Name = "pictureBox67";
-            this.pictureBox67.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox67.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox67.TabIndex = 38;
-            this.pictureBox67.TabStop = false;
-            // 
-            // pictureBox68
-            // 
-            this.pictureBox68.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox68.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox68.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox68.Image = global::Sökö_laskuri.Properties.Resources.Q_7a16fd60816d5663e6f4b71bb981eb7d;
-            this.pictureBox68.Location = new System.Drawing.Point(566, 181);
-            this.pictureBox68.Name = "pictureBox68";
-            this.pictureBox68.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox68.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox68.TabIndex = 37;
-            this.pictureBox68.TabStop = false;
-            // 
-            // pictureBox69
-            // 
-            this.pictureBox69.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox69.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox69.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox69.Image = global::Sökö_laskuri.Properties.Resources.J_4ee080652416226f2c6d08cfaab3c54b;
-            this.pictureBox69.Location = new System.Drawing.Point(510, 181);
-            this.pictureBox69.Name = "pictureBox69";
-            this.pictureBox69.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox69.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox69.TabIndex = 36;
-            this.pictureBox69.TabStop = false;
-            // 
-            // pictureBox70
-            // 
-            this.pictureBox70.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox70.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox70.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox70.Image = global::Sökö_laskuri.Properties.Resources.T_8918b02e07d19324bcd62d32afe83c61;
-            this.pictureBox70.Location = new System.Drawing.Point(454, 181);
-            this.pictureBox70.Name = "pictureBox70";
-            this.pictureBox70.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox70.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox70.TabIndex = 35;
-            this.pictureBox70.TabStop = false;
-            // 
-            // pictureBox71
-            // 
-            this.pictureBox71.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox71.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox71.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox71.Image = global::Sökö_laskuri.Properties.Resources._9_0e00ae2a9d1a99277ab6f59c8741e22a;
-            this.pictureBox71.Location = new System.Drawing.Point(398, 181);
-            this.pictureBox71.Name = "pictureBox71";
-            this.pictureBox71.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox71.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox71.TabIndex = 34;
-            this.pictureBox71.TabStop = false;
-            // 
-            // pictureBox72
-            // 
-            this.pictureBox72.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox72.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox72.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox72.Image = global::Sökö_laskuri.Properties.Resources._8_2098daff24c3d4f500b4077b581f43f7;
-            this.pictureBox72.Location = new System.Drawing.Point(342, 181);
-            this.pictureBox72.Name = "pictureBox72";
-            this.pictureBox72.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox72.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox72.TabIndex = 33;
-            this.pictureBox72.TabStop = false;
-            // 
-            // pictureBox73
-            // 
-            this.pictureBox73.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox73.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox73.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox73.Image = global::Sökö_laskuri.Properties.Resources._7_6e44256c46c7e0fe50fa08464d1376d8;
-            this.pictureBox73.Location = new System.Drawing.Point(286, 181);
-            this.pictureBox73.Name = "pictureBox73";
-            this.pictureBox73.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox73.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox73.TabIndex = 32;
-            this.pictureBox73.TabStop = false;
-            // 
-            // pictureBox74
-            // 
-            this.pictureBox74.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox74.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox74.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox74.Image = global::Sökö_laskuri.Properties.Resources._6_fc30006807b97c2bd9a77fa5308a0da2;
-            this.pictureBox74.Location = new System.Drawing.Point(230, 181);
-            this.pictureBox74.Name = "pictureBox74";
-            this.pictureBox74.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox74.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox74.TabIndex = 31;
-            this.pictureBox74.TabStop = false;
-            // 
-            // pictureBox75
-            // 
-            this.pictureBox75.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox75.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox75.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox75.Image = global::Sökö_laskuri.Properties.Resources._5_795d32aa626d7bcc5915bc735536f0ee;
-            this.pictureBox75.Location = new System.Drawing.Point(174, 181);
-            this.pictureBox75.Name = "pictureBox75";
-            this.pictureBox75.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox75.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox75.TabIndex = 30;
-            this.pictureBox75.TabStop = false;
-            // 
-            // pictureBox76
-            // 
-            this.pictureBox76.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox76.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox76.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox76.Image = global::Sökö_laskuri.Properties.Resources._4_18ee35b6f559ccb8a9733989c219e22e;
-            this.pictureBox76.Location = new System.Drawing.Point(118, 181);
-            this.pictureBox76.Name = "pictureBox76";
-            this.pictureBox76.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox76.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox76.TabIndex = 29;
-            this.pictureBox76.TabStop = false;
-            // 
-            // pictureBox77
-            // 
-            this.pictureBox77.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox77.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox77.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox77.Image = global::Sökö_laskuri.Properties.Resources._3_4d8f531fa398c6528dc6a0e0674a00e4;
-            this.pictureBox77.Location = new System.Drawing.Point(62, 181);
-            this.pictureBox77.Name = "pictureBox77";
-            this.pictureBox77.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox77.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox77.TabIndex = 28;
-            this.pictureBox77.TabStop = false;
-            // 
-            // pictureBox78
-            // 
-            this.pictureBox78.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox78.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox78.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox78.Image = global::Sökö_laskuri.Properties.Resources._2_3a9ce70c43049219e1fb113b944a4b52;
-            this.pictureBox78.Location = new System.Drawing.Point(6, 181);
-            this.pictureBox78.Name = "pictureBox78";
-            this.pictureBox78.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox78.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox78.TabIndex = 27;
-            this.pictureBox78.TabStop = false;
-            // 
-            // pictureBox53
-            // 
-            this.pictureBox53.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox53.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox53.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox53.Image = global::Sökö_laskuri.Properties.Resources.A_bf9398d7a9a124f5001c7ad3cd02ed19;
-            this.pictureBox53.Location = new System.Drawing.Point(678, 100);
-            this.pictureBox53.Name = "pictureBox53";
-            this.pictureBox53.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox53.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox53.TabIndex = 26;
-            this.pictureBox53.TabStop = false;
-            // 
-            // pictureBox54
-            // 
-            this.pictureBox54.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox54.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox54.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox54.Image = global::Sökö_laskuri.Properties.Resources.K_219b2176328afbd044a53908f815d0b9;
-            this.pictureBox54.Location = new System.Drawing.Point(622, 100);
-            this.pictureBox54.Name = "pictureBox54";
-            this.pictureBox54.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox54.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox54.TabIndex = 25;
-            this.pictureBox54.TabStop = false;
-            // 
-            // pictureBox55
-            // 
-            this.pictureBox55.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox55.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox55.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox55.Image = global::Sökö_laskuri.Properties.Resources.Q_abd69f807ca7fef209b5712b76107abb;
-            this.pictureBox55.Location = new System.Drawing.Point(566, 100);
-            this.pictureBox55.Name = "pictureBox55";
-            this.pictureBox55.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox55.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox55.TabIndex = 24;
-            this.pictureBox55.TabStop = false;
-            // 
-            // pictureBox56
-            // 
-            this.pictureBox56.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox56.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox56.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox56.Image = global::Sökö_laskuri.Properties.Resources.J_29ead4601e8cfc2d79768214f84669ef;
-            this.pictureBox56.Location = new System.Drawing.Point(510, 100);
-            this.pictureBox56.Name = "pictureBox56";
-            this.pictureBox56.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox56.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox56.TabIndex = 23;
-            this.pictureBox56.TabStop = false;
-            // 
-            // pictureBox57
-            // 
-            this.pictureBox57.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox57.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox57.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox57.Image = global::Sökö_laskuri.Properties.Resources.T_acfaa38639aaa07d30ad03a8b25cc740;
-            this.pictureBox57.Location = new System.Drawing.Point(454, 100);
-            this.pictureBox57.Name = "pictureBox57";
-            this.pictureBox57.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox57.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox57.TabIndex = 22;
-            this.pictureBox57.TabStop = false;
-            // 
-            // pictureBox58
-            // 
-            this.pictureBox58.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox58.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox58.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox58.Image = global::Sökö_laskuri.Properties.Resources._9_44cd08aea0f02b867c4bf43bff3df9e9;
-            this.pictureBox58.Location = new System.Drawing.Point(398, 100);
-            this.pictureBox58.Name = "pictureBox58";
-            this.pictureBox58.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox58.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox58.TabIndex = 21;
-            this.pictureBox58.TabStop = false;
-            // 
-            // pictureBox59
-            // 
-            this.pictureBox59.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox59.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox59.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox59.Image = global::Sökö_laskuri.Properties.Resources._8_bb4d5f82d8b72a75cf5851b3163f40c6;
-            this.pictureBox59.Location = new System.Drawing.Point(342, 100);
-            this.pictureBox59.Name = "pictureBox59";
-            this.pictureBox59.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox59.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox59.TabIndex = 20;
-            this.pictureBox59.TabStop = false;
-            // 
-            // pictureBox60
-            // 
-            this.pictureBox60.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox60.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox60.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox60.Image = global::Sökö_laskuri.Properties.Resources._7_59582b248b29ce0ec0e6ccc18a73356f;
-            this.pictureBox60.Location = new System.Drawing.Point(286, 100);
-            this.pictureBox60.Name = "pictureBox60";
-            this.pictureBox60.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox60.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox60.TabIndex = 19;
-            this.pictureBox60.TabStop = false;
-            // 
-            // pictureBox61
-            // 
-            this.pictureBox61.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox61.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox61.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox61.Image = global::Sökö_laskuri.Properties.Resources._6_ec8836e3292031f99ba9d4049e15d83e;
-            this.pictureBox61.Location = new System.Drawing.Point(230, 100);
-            this.pictureBox61.Name = "pictureBox61";
-            this.pictureBox61.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox61.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox61.TabIndex = 18;
-            this.pictureBox61.TabStop = false;
-            // 
-            // pictureBox62
-            // 
-            this.pictureBox62.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox62.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox62.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox62.Image = global::Sökö_laskuri.Properties.Resources._5_5e8e3e67a4181a306e7e689ec6659858;
-            this.pictureBox62.Location = new System.Drawing.Point(174, 100);
-            this.pictureBox62.Name = "pictureBox62";
-            this.pictureBox62.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox62.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox62.TabIndex = 17;
-            this.pictureBox62.TabStop = false;
-            // 
-            // pictureBox63
-            // 
-            this.pictureBox63.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox63.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox63.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox63.Image = global::Sökö_laskuri.Properties.Resources._4_bd9c25d6bd948331b645f261914bee31;
-            this.pictureBox63.Location = new System.Drawing.Point(118, 100);
-            this.pictureBox63.Name = "pictureBox63";
-            this.pictureBox63.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox63.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox63.TabIndex = 16;
-            this.pictureBox63.TabStop = false;
-            // 
-            // pictureBox64
-            // 
-            this.pictureBox64.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox64.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox64.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox64.Image = global::Sökö_laskuri.Properties.Resources._3_9bb8ec1304eb5fb3312f475c5de29b45;
-            this.pictureBox64.Location = new System.Drawing.Point(62, 100);
-            this.pictureBox64.Name = "pictureBox64";
-            this.pictureBox64.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox64.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox64.TabIndex = 15;
-            this.pictureBox64.TabStop = false;
-            // 
-            // pictureBox65
-            // 
-            this.pictureBox65.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox65.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox65.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox65.Image = global::Sökö_laskuri.Properties.Resources._2_39418f7c31cedc5d4e676813120d48d5;
-            this.pictureBox65.Location = new System.Drawing.Point(6, 100);
-            this.pictureBox65.Name = "pictureBox65";
-            this.pictureBox65.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox65.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox65.TabIndex = 14;
-            this.pictureBox65.TabStop = false;
-            // 
-            // pictureBox92
-            // 
-            this.pictureBox92.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox92.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox92.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox92.Image = global::Sökö_laskuri.Properties.Resources.A_b5d825abd9516ea9d9a63c93d8f162a6;
-            this.pictureBox92.Location = new System.Drawing.Point(678, 19);
-            this.pictureBox92.Name = "pictureBox92";
-            this.pictureBox92.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox92.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox92.TabIndex = 13;
-            this.pictureBox92.TabStop = false;
-            // 
-            // pictureBox93
-            // 
-            this.pictureBox93.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox93.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox93.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox93.Image = global::Sökö_laskuri.Properties.Resources.K_5c366fb22daf149e4539fc7b006e20db;
-            this.pictureBox93.Location = new System.Drawing.Point(622, 19);
-            this.pictureBox93.Name = "pictureBox93";
-            this.pictureBox93.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox93.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox93.TabIndex = 12;
-            this.pictureBox93.TabStop = false;
-            // 
-            // pictureBox94
-            // 
-            this.pictureBox94.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox94.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox94.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox94.Image = global::Sökö_laskuri.Properties.Resources.Q_20989fca1c17a3545d6343a3390d245f;
-            this.pictureBox94.Location = new System.Drawing.Point(566, 19);
-            this.pictureBox94.Name = "pictureBox94";
-            this.pictureBox94.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox94.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox94.TabIndex = 11;
-            this.pictureBox94.TabStop = false;
-            // 
-            // pictureBox95
-            // 
-            this.pictureBox95.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox95.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox95.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox95.Image = global::Sökö_laskuri.Properties.Resources.J_8796f258313daf8acdddf8cb88e951e7;
-            this.pictureBox95.Location = new System.Drawing.Point(510, 19);
-            this.pictureBox95.Name = "pictureBox95";
-            this.pictureBox95.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox95.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox95.TabIndex = 10;
-            this.pictureBox95.TabStop = false;
-            // 
-            // pictureBox96
-            // 
-            this.pictureBox96.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox96.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox96.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox96.Image = global::Sökö_laskuri.Properties.Resources.T_a956b31d64ee2a7392744d7a87959f71;
-            this.pictureBox96.Location = new System.Drawing.Point(454, 19);
-            this.pictureBox96.Name = "pictureBox96";
-            this.pictureBox96.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox96.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox96.TabIndex = 9;
-            this.pictureBox96.TabStop = false;
-            // 
-            // pictureBox97
-            // 
-            this.pictureBox97.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox97.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox97.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox97.Image = global::Sökö_laskuri.Properties.Resources._9_a5f892d32ffae38a22738ae1687b6844;
-            this.pictureBox97.Location = new System.Drawing.Point(398, 19);
-            this.pictureBox97.Name = "pictureBox97";
-            this.pictureBox97.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox97.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox97.TabIndex = 8;
-            this.pictureBox97.TabStop = false;
-            // 
-            // pictureBox98
-            // 
-            this.pictureBox98.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox98.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox98.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox98.Image = global::Sökö_laskuri.Properties.Resources._8_b8584a6139874112d7e4a6d2facbc2e2;
-            this.pictureBox98.Location = new System.Drawing.Point(342, 19);
-            this.pictureBox98.Name = "pictureBox98";
-            this.pictureBox98.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox98.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox98.TabIndex = 7;
-            this.pictureBox98.TabStop = false;
-            // 
-            // pictureBox99
-            // 
-            this.pictureBox99.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox99.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox99.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox99.Image = global::Sökö_laskuri.Properties.Resources._7_34cbc0aad8b9ab57160625299892101f;
-            this.pictureBox99.Location = new System.Drawing.Point(286, 19);
-            this.pictureBox99.Name = "pictureBox99";
-            this.pictureBox99.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox99.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox99.TabIndex = 6;
-            this.pictureBox99.TabStop = false;
-            // 
-            // pictureBox100
-            // 
-            this.pictureBox100.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox100.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox100.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox100.Image = global::Sökö_laskuri.Properties.Resources._6_8433587a9010fde9fea3f29e431b3413;
-            this.pictureBox100.Location = new System.Drawing.Point(230, 19);
-            this.pictureBox100.Name = "pictureBox100";
-            this.pictureBox100.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox100.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox100.TabIndex = 5;
-            this.pictureBox100.TabStop = false;
-            // 
-            // pictureBox101
-            // 
-            this.pictureBox101.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox101.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox101.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox101.Image = global::Sökö_laskuri.Properties.Resources._5_cc221abc62dd896f281171f909473d92;
-            this.pictureBox101.Location = new System.Drawing.Point(174, 19);
-            this.pictureBox101.Name = "pictureBox101";
-            this.pictureBox101.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox101.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox101.TabIndex = 4;
-            this.pictureBox101.TabStop = false;
-            // 
-            // pictureBox102
-            // 
-            this.pictureBox102.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox102.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox102.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox102.Image = global::Sökö_laskuri.Properties.Resources._4_5713175c2625725ffd01ed75eb2f9a37;
-            this.pictureBox102.Location = new System.Drawing.Point(118, 19);
-            this.pictureBox102.Name = "pictureBox102";
-            this.pictureBox102.Size = new System.Drawing.Size(50, 75);
-            this.pictureBox102.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox102.TabIndex = 3;
-            this.pictureBox102.TabStop = false;
+            // pelatutK
+            // 
+            this.pelatutK.AutoSize = true;
+            this.pelatutK.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pelatutK.Location = new System.Drawing.Point(18, 62);
+            this.pelatutK.Name = "pelatutK";
+            this.pelatutK.Size = new System.Drawing.Size(96, 16);
+            this.pelatutK.TabIndex = 1;
+            this.pelatutK.Text = "Pelatut kortit : 0";
+            // 
+            // resetButton
+            // 
+            this.resetButton.AutoSize = true;
+            this.resetButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.resetButton.FlatStyle = System.Windows.Forms.FlatStyle.System;
+            this.resetButton.Location = new System.Drawing.Point(24, 19);
+            this.resetButton.Name = "resetButton";
+            this.resetButton.Size = new System.Drawing.Size(75, 25);
+            this.resetButton.TabIndex = 0;
+            this.resetButton.Text = "Reset";
+            this.resetButton.UseVisualStyleBackColor = true;
+            this.resetButton.MouseClick += new System.Windows.Forms.MouseEventHandler(this.resetButton_MouseClick);
+            // 
+            // ruutuA
+            // 
+            this.ruutuA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutuA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutuA.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutuA.Image = global::Sökö_laskuri.Properties.Resources.A_11c73136d0af53baf0b1cf04c31d016e;
+            this.ruutuA.Location = new System.Drawing.Point(678, 262);
+            this.ruutuA.Name = "ruutuA";
+            this.ruutuA.Size = new System.Drawing.Size(50, 75);
+            this.ruutuA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutuA.TabIndex = 52;
+            this.ruutuA.TabStop = false;
+            this.ruutuA.Click += new System.EventHandler(this.ruutuA_Click);
+            // 
+            // ruutuK
+            // 
+            this.ruutuK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutuK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutuK.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutuK.Image = global::Sökö_laskuri.Properties.Resources.K_d19ab44b124bb26202fd7907ec06b74e;
+            this.ruutuK.Location = new System.Drawing.Point(622, 262);
+            this.ruutuK.Name = "ruutuK";
+            this.ruutuK.Size = new System.Drawing.Size(50, 75);
+            this.ruutuK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutuK.TabIndex = 51;
+            this.ruutuK.TabStop = false;
+            this.ruutuK.Click += new System.EventHandler(this.ruutuK_Click);
+            // 
+            // ruutuQ
+            // 
+            this.ruutuQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutuQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutuQ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutuQ.Image = global::Sökö_laskuri.Properties.Resources.Q_7b0af4160c80c45cf6b3aa76951eecd2;
+            this.ruutuQ.Location = new System.Drawing.Point(566, 262);
+            this.ruutuQ.Name = "ruutuQ";
+            this.ruutuQ.Size = new System.Drawing.Size(50, 75);
+            this.ruutuQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutuQ.TabIndex = 50;
+            this.ruutuQ.TabStop = false;
+            this.ruutuQ.Click += new System.EventHandler(this.ruutuQ_Click);
+            // 
+            // ruutuJ
+            // 
+            this.ruutuJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutuJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutuJ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutuJ.Image = global::Sökö_laskuri.Properties.Resources.J_852e042c517e09a92486ce213423fc11;
+            this.ruutuJ.Location = new System.Drawing.Point(510, 262);
+            this.ruutuJ.Name = "ruutuJ";
+            this.ruutuJ.Size = new System.Drawing.Size(50, 75);
+            this.ruutuJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutuJ.TabIndex = 49;
+            this.ruutuJ.TabStop = false;
+            this.ruutuJ.Click += new System.EventHandler(this.ruutuJ_Click);
+            // 
+            // ruutu10
+            // 
+            this.ruutu10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu10.Image = global::Sökö_laskuri.Properties.Resources.T_a7c47c3ab1be0c2e5c00cfab8d4371bd;
+            this.ruutu10.Location = new System.Drawing.Point(454, 262);
+            this.ruutu10.Name = "ruutu10";
+            this.ruutu10.Size = new System.Drawing.Size(50, 75);
+            this.ruutu10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu10.TabIndex = 48;
+            this.ruutu10.TabStop = false;
+            this.ruutu10.Click += new System.EventHandler(this.ruutu10_Click);
+            // 
+            // ruutu9
+            // 
+            this.ruutu9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu9.Image = global::Sökö_laskuri.Properties.Resources._9_72d48c18490adb38af9a8583ffc480b1;
+            this.ruutu9.Location = new System.Drawing.Point(398, 262);
+            this.ruutu9.Name = "ruutu9";
+            this.ruutu9.Size = new System.Drawing.Size(50, 75);
+            this.ruutu9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu9.TabIndex = 47;
+            this.ruutu9.TabStop = false;
+            this.ruutu9.Click += new System.EventHandler(this.ruutu9_Click);
+            // 
+            // ruutu8
+            // 
+            this.ruutu8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu8.Image = global::Sökö_laskuri.Properties.Resources._8_d9c46c7826673184793734670dfee92d;
+            this.ruutu8.Location = new System.Drawing.Point(342, 262);
+            this.ruutu8.Name = "ruutu8";
+            this.ruutu8.Size = new System.Drawing.Size(50, 75);
+            this.ruutu8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu8.TabIndex = 46;
+            this.ruutu8.TabStop = false;
+            this.ruutu8.Click += new System.EventHandler(this.ruutu8_Click);
+            // 
+            // ruutu7
+            // 
+            this.ruutu7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu7.Image = global::Sökö_laskuri.Properties.Resources._7_22269186558dfb327a391b56e0516b2f;
+            this.ruutu7.Location = new System.Drawing.Point(286, 262);
+            this.ruutu7.Name = "ruutu7";
+            this.ruutu7.Size = new System.Drawing.Size(50, 75);
+            this.ruutu7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu7.TabIndex = 45;
+            this.ruutu7.TabStop = false;
+            this.ruutu7.Click += new System.EventHandler(this.ruutu7_Click);
+            // 
+            // ruutu6
+            // 
+            this.ruutu6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu6.Image = global::Sökö_laskuri.Properties.Resources._6_b4b8865fd75ed4ecd4360e73c70de537;
+            this.ruutu6.Location = new System.Drawing.Point(230, 262);
+            this.ruutu6.Name = "ruutu6";
+            this.ruutu6.Size = new System.Drawing.Size(50, 75);
+            this.ruutu6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu6.TabIndex = 44;
+            this.ruutu6.TabStop = false;
+            this.ruutu6.Click += new System.EventHandler(this.ruutu6_Click);
+            // 
+            // ruutu5
+            // 
+            this.ruutu5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu5.Image = global::Sökö_laskuri.Properties.Resources._5_409cb091d7e78524f457c47453621e0b;
+            this.ruutu5.Location = new System.Drawing.Point(174, 262);
+            this.ruutu5.Name = "ruutu5";
+            this.ruutu5.Size = new System.Drawing.Size(50, 75);
+            this.ruutu5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu5.TabIndex = 43;
+            this.ruutu5.TabStop = false;
+            this.ruutu5.Click += new System.EventHandler(this.ruutu5_Click);
+            // 
+            // ruutu4
+            // 
+            this.ruutu4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu4.Image = global::Sökö_laskuri.Properties.Resources._4_dd762d285d0d7a816565c3e1a54887a0;
+            this.ruutu4.Location = new System.Drawing.Point(118, 262);
+            this.ruutu4.Name = "ruutu4";
+            this.ruutu4.Size = new System.Drawing.Size(50, 75);
+            this.ruutu4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu4.TabIndex = 42;
+            this.ruutu4.TabStop = false;
+            this.ruutu4.Click += new System.EventHandler(this.ruutu4_Click);
+            // 
+            // ruutu3
+            // 
+            this.ruutu3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu3.Image = global::Sökö_laskuri.Properties.Resources._3_358a5ccaa0bce1fb4922cc59646e8688;
+            this.ruutu3.Location = new System.Drawing.Point(62, 262);
+            this.ruutu3.Name = "ruutu3";
+            this.ruutu3.Size = new System.Drawing.Size(50, 75);
+            this.ruutu3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu3.TabIndex = 41;
+            this.ruutu3.TabStop = false;
+            this.ruutu3.Click += new System.EventHandler(this.ruutu3_Click);
+            // 
+            // ruutu2
+            // 
+            this.ruutu2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu2.Image = global::Sökö_laskuri.Properties.Resources._2_2e6810bdef979c5572285928cfdd68791;
+            this.ruutu2.Location = new System.Drawing.Point(6, 262);
+            this.ruutu2.Name = "ruutu2";
+            this.ruutu2.Size = new System.Drawing.Size(50, 75);
+            this.ruutu2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu2.TabIndex = 40;
+            this.ruutu2.TabStop = false;
+            this.ruutu2.Click += new System.EventHandler(this.ruutu2_Click);
+            // 
+            // herttaA
+            // 
+            this.herttaA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.herttaA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.herttaA.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.herttaA.Image = global::Sökö_laskuri.Properties.Resources.A_2cc1611190e49d0efef6b87f54cbf401;
+            this.herttaA.Location = new System.Drawing.Point(678, 181);
+            this.herttaA.Name = "herttaA";
+            this.herttaA.Size = new System.Drawing.Size(50, 75);
+            this.herttaA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.herttaA.TabIndex = 39;
+            this.herttaA.TabStop = false;
+            this.herttaA.Click += new System.EventHandler(this.herttaA_Click);
+            // 
+            // herttaK
+            // 
+            this.herttaK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.herttaK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.herttaK.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.herttaK.Image = global::Sökö_laskuri.Properties.Resources.K_1937a84a0020eef4aba9eecc475342f0;
+            this.herttaK.Location = new System.Drawing.Point(622, 181);
+            this.herttaK.Name = "herttaK";
+            this.herttaK.Size = new System.Drawing.Size(50, 75);
+            this.herttaK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.herttaK.TabIndex = 38;
+            this.herttaK.TabStop = false;
+            this.herttaK.Click += new System.EventHandler(this.herttaK_Click);
+            // 
+            // herttaQ
+            // 
+            this.herttaQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.herttaQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.herttaQ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.herttaQ.Image = global::Sökö_laskuri.Properties.Resources.Q_7a16fd60816d5663e6f4b71bb981eb7d;
+            this.herttaQ.Location = new System.Drawing.Point(566, 181);
+            this.herttaQ.Name = "herttaQ";
+            this.herttaQ.Size = new System.Drawing.Size(50, 75);
+            this.herttaQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.herttaQ.TabIndex = 37;
+            this.herttaQ.TabStop = false;
+            this.herttaQ.Click += new System.EventHandler(this.herttaQ_Click);
+            // 
+            // herttaJ
+            // 
+            this.herttaJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.herttaJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.herttaJ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.herttaJ.Image = global::Sökö_laskuri.Properties.Resources.J_4ee080652416226f2c6d08cfaab3c54b;
+            this.herttaJ.Location = new System.Drawing.Point(510, 181);
+            this.herttaJ.Name = "herttaJ";
+            this.herttaJ.Size = new System.Drawing.Size(50, 75);
+            this.herttaJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.herttaJ.TabIndex = 36;
+            this.herttaJ.TabStop = false;
+            this.herttaJ.Click += new System.EventHandler(this.herttaJ_Click);
+            // 
+            // hertta10
+            // 
+            this.hertta10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta10.Image = global::Sökö_laskuri.Properties.Resources.T_8918b02e07d19324bcd62d32afe83c61;
+            this.hertta10.Location = new System.Drawing.Point(454, 181);
+            this.hertta10.Name = "hertta10";
+            this.hertta10.Size = new System.Drawing.Size(50, 75);
+            this.hertta10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta10.TabIndex = 35;
+            this.hertta10.TabStop = false;
+            this.hertta10.Click += new System.EventHandler(this.hertta10_Click);
+            // 
+            // hertta9
+            // 
+            this.hertta9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta9.Image = global::Sökö_laskuri.Properties.Resources._9_0e00ae2a9d1a99277ab6f59c8741e22a;
+            this.hertta9.Location = new System.Drawing.Point(398, 181);
+            this.hertta9.Name = "hertta9";
+            this.hertta9.Size = new System.Drawing.Size(50, 75);
+            this.hertta9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta9.TabIndex = 34;
+            this.hertta9.TabStop = false;
+            this.hertta9.Click += new System.EventHandler(this.hertta9_Click);
+            // 
+            // hertta8
+            // 
+            this.hertta8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta8.Image = global::Sökö_laskuri.Properties.Resources._8_2098daff24c3d4f500b4077b581f43f7;
+            this.hertta8.Location = new System.Drawing.Point(342, 181);
+            this.hertta8.Name = "hertta8";
+            this.hertta8.Size = new System.Drawing.Size(50, 75);
+            this.hertta8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta8.TabIndex = 33;
+            this.hertta8.TabStop = false;
+            this.hertta8.Click += new System.EventHandler(this.hertta8_Click);
+            // 
+            // hertta7
+            // 
+            this.hertta7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta7.Image = global::Sökö_laskuri.Properties.Resources._7_6e44256c46c7e0fe50fa08464d1376d8;
+            this.hertta7.Location = new System.Drawing.Point(286, 181);
+            this.hertta7.Name = "hertta7";
+            this.hertta7.Size = new System.Drawing.Size(50, 75);
+            this.hertta7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta7.TabIndex = 32;
+            this.hertta7.TabStop = false;
+            this.hertta7.Click += new System.EventHandler(this.hertta7_Click);
+            // 
+            // hertta6
+            // 
+            this.hertta6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta6.Image = global::Sökö_laskuri.Properties.Resources._6_fc30006807b97c2bd9a77fa5308a0da2;
+            this.hertta6.Location = new System.Drawing.Point(230, 181);
+            this.hertta6.Name = "hertta6";
+            this.hertta6.Size = new System.Drawing.Size(50, 75);
+            this.hertta6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta6.TabIndex = 31;
+            this.hertta6.TabStop = false;
+            this.hertta6.Click += new System.EventHandler(this.hertta6_Click);
+            // 
+            // hertta5
+            // 
+            this.hertta5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta5.Image = global::Sökö_laskuri.Properties.Resources._5_795d32aa626d7bcc5915bc735536f0ee;
+            this.hertta5.Location = new System.Drawing.Point(174, 181);
+            this.hertta5.Name = "hertta5";
+            this.hertta5.Size = new System.Drawing.Size(50, 75);
+            this.hertta5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta5.TabIndex = 30;
+            this.hertta5.TabStop = false;
+            this.hertta5.Click += new System.EventHandler(this.hertta5_Click);
+            // 
+            // hertta4
+            // 
+            this.hertta4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta4.Image = global::Sökö_laskuri.Properties.Resources._4_18ee35b6f559ccb8a9733989c219e22e;
+            this.hertta4.Location = new System.Drawing.Point(118, 181);
+            this.hertta4.Name = "hertta4";
+            this.hertta4.Size = new System.Drawing.Size(50, 75);
+            this.hertta4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta4.TabIndex = 29;
+            this.hertta4.TabStop = false;
+            this.hertta4.Click += new System.EventHandler(this.hertta4_Click);
+            // 
+            // hertta3
+            // 
+            this.hertta3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta3.Image = global::Sökö_laskuri.Properties.Resources._3_4d8f531fa398c6528dc6a0e0674a00e4;
+            this.hertta3.Location = new System.Drawing.Point(62, 181);
+            this.hertta3.Name = "hertta3";
+            this.hertta3.Size = new System.Drawing.Size(50, 75);
+            this.hertta3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta3.TabIndex = 28;
+            this.hertta3.TabStop = false;
+            this.hertta3.Click += new System.EventHandler(this.hertta3_Click);
+            // 
+            // hertta2
+            // 
+            this.hertta2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.hertta2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.hertta2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.hertta2.Image = global::Sökö_laskuri.Properties.Resources._2_3a9ce70c43049219e1fb113b944a4b52;
+            this.hertta2.Location = new System.Drawing.Point(6, 181);
+            this.hertta2.Name = "hertta2";
+            this.hertta2.Size = new System.Drawing.Size(50, 75);
+            this.hertta2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.hertta2.TabIndex = 27;
+            this.hertta2.TabStop = false;
+            this.hertta2.Click += new System.EventHandler(this.hertta2_Click);
+            // 
+            // ristiA
+            // 
+            this.ristiA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ristiA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ristiA.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ristiA.Image = global::Sökö_laskuri.Properties.Resources.A_bf9398d7a9a124f5001c7ad3cd02ed19;
+            this.ristiA.Location = new System.Drawing.Point(678, 100);
+            this.ristiA.Name = "ristiA";
+            this.ristiA.Size = new System.Drawing.Size(50, 75);
+            this.ristiA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ristiA.TabIndex = 26;
+            this.ristiA.TabStop = false;
+            this.ristiA.Click += new System.EventHandler(this.ristiA_Click);
+            // 
+            // ristiK
+            // 
+            this.ristiK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ristiK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ristiK.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ristiK.Image = global::Sökö_laskuri.Properties.Resources.K_219b2176328afbd044a53908f815d0b9;
+            this.ristiK.Location = new System.Drawing.Point(622, 100);
+            this.ristiK.Name = "ristiK";
+            this.ristiK.Size = new System.Drawing.Size(50, 75);
+            this.ristiK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ristiK.TabIndex = 25;
+            this.ristiK.TabStop = false;
+            this.ristiK.Click += new System.EventHandler(this.ristiK_Click);
+            // 
+            // ristiQ
+            // 
+            this.ristiQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ristiQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ristiQ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ristiQ.Image = global::Sökö_laskuri.Properties.Resources.Q_abd69f807ca7fef209b5712b76107abb;
+            this.ristiQ.Location = new System.Drawing.Point(566, 100);
+            this.ristiQ.Name = "ristiQ";
+            this.ristiQ.Size = new System.Drawing.Size(50, 75);
+            this.ristiQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ristiQ.TabIndex = 24;
+            this.ristiQ.TabStop = false;
+            this.ristiQ.Click += new System.EventHandler(this.ristiQ_Click);
+            // 
+            // ristiJ
+            // 
+            this.ristiJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ristiJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ristiJ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ristiJ.Image = global::Sökö_laskuri.Properties.Resources.J_29ead4601e8cfc2d79768214f84669ef;
+            this.ristiJ.Location = new System.Drawing.Point(510, 100);
+            this.ristiJ.Name = "ristiJ";
+            this.ristiJ.Size = new System.Drawing.Size(50, 75);
+            this.ristiJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ristiJ.TabIndex = 23;
+            this.ristiJ.TabStop = false;
+            this.ristiJ.Click += new System.EventHandler(this.ristiJ_Click);
+            // 
+            // risti10
+            // 
+            this.risti10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti10.Image = global::Sökö_laskuri.Properties.Resources.T_acfaa38639aaa07d30ad03a8b25cc740;
+            this.risti10.Location = new System.Drawing.Point(454, 100);
+            this.risti10.Name = "risti10";
+            this.risti10.Size = new System.Drawing.Size(50, 75);
+            this.risti10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti10.TabIndex = 22;
+            this.risti10.TabStop = false;
+            this.risti10.Click += new System.EventHandler(this.risti10_Click);
+            // 
+            // risti9
+            // 
+            this.risti9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti9.Image = global::Sökö_laskuri.Properties.Resources._9_44cd08aea0f02b867c4bf43bff3df9e9;
+            this.risti9.Location = new System.Drawing.Point(398, 100);
+            this.risti9.Name = "risti9";
+            this.risti9.Size = new System.Drawing.Size(50, 75);
+            this.risti9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti9.TabIndex = 21;
+            this.risti9.TabStop = false;
+            this.risti9.Click += new System.EventHandler(this.risti9_Click);
+            // 
+            // risti8
+            // 
+            this.risti8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti8.Image = global::Sökö_laskuri.Properties.Resources._8_bb4d5f82d8b72a75cf5851b3163f40c6;
+            this.risti8.Location = new System.Drawing.Point(342, 100);
+            this.risti8.Name = "risti8";
+            this.risti8.Size = new System.Drawing.Size(50, 75);
+            this.risti8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti8.TabIndex = 20;
+            this.risti8.TabStop = false;
+            this.risti8.Click += new System.EventHandler(this.risti8_Click);
+            // 
+            // risti7
+            // 
+            this.risti7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti7.Image = global::Sökö_laskuri.Properties.Resources._7_59582b248b29ce0ec0e6ccc18a73356f;
+            this.risti7.Location = new System.Drawing.Point(286, 100);
+            this.risti7.Name = "risti7";
+            this.risti7.Size = new System.Drawing.Size(50, 75);
+            this.risti7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti7.TabIndex = 19;
+            this.risti7.TabStop = false;
+            this.risti7.Click += new System.EventHandler(this.risti7_Click);
+            // 
+            // risti6
+            // 
+            this.risti6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti6.Image = global::Sökö_laskuri.Properties.Resources._6_ec8836e3292031f99ba9d4049e15d83e;
+            this.risti6.Location = new System.Drawing.Point(230, 100);
+            this.risti6.Name = "risti6";
+            this.risti6.Size = new System.Drawing.Size(50, 75);
+            this.risti6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti6.TabIndex = 18;
+            this.risti6.TabStop = false;
+            this.risti6.Click += new System.EventHandler(this.risti6_Click);
+            // 
+            // risti5
+            // 
+            this.risti5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti5.Image = global::Sökö_laskuri.Properties.Resources._5_5e8e3e67a4181a306e7e689ec6659858;
+            this.risti5.Location = new System.Drawing.Point(174, 100);
+            this.risti5.Name = "risti5";
+            this.risti5.Size = new System.Drawing.Size(50, 75);
+            this.risti5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti5.TabIndex = 17;
+            this.risti5.TabStop = false;
+            this.risti5.Click += new System.EventHandler(this.risti5_Click);
+            // 
+            // risti4
+            // 
+            this.risti4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti4.Image = global::Sökö_laskuri.Properties.Resources._4_bd9c25d6bd948331b645f261914bee31;
+            this.risti4.Location = new System.Drawing.Point(118, 100);
+            this.risti4.Name = "risti4";
+            this.risti4.Size = new System.Drawing.Size(50, 75);
+            this.risti4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti4.TabIndex = 16;
+            this.risti4.TabStop = false;
+            this.risti4.Click += new System.EventHandler(this.risti4_Click);
+            // 
+            // risti3
+            // 
+            this.risti3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti3.Image = global::Sökö_laskuri.Properties.Resources._3_9bb8ec1304eb5fb3312f475c5de29b45;
+            this.risti3.Location = new System.Drawing.Point(62, 100);
+            this.risti3.Name = "risti3";
+            this.risti3.Size = new System.Drawing.Size(50, 75);
+            this.risti3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti3.TabIndex = 15;
+            this.risti3.TabStop = false;
+            this.risti3.Click += new System.EventHandler(this.risti3_Click);
+            // 
+            // risti2
+            // 
+            this.risti2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.risti2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.risti2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.risti2.Image = global::Sökö_laskuri.Properties.Resources._2_39418f7c31cedc5d4e676813120d48d5;
+            this.risti2.Location = new System.Drawing.Point(6, 100);
+            this.risti2.Name = "risti2";
+            this.risti2.Size = new System.Drawing.Size(50, 75);
+            this.risti2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.risti2.TabIndex = 14;
+            this.risti2.TabStop = false;
+            this.risti2.Click += new System.EventHandler(this.risti2_Click);
+            // 
+            // pataA
+            // 
+            this.pataA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pataA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pataA.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pataA.Image = global::Sökö_laskuri.Properties.Resources.A_b5d825abd9516ea9d9a63c93d8f162a6;
+            this.pataA.Location = new System.Drawing.Point(678, 19);
+            this.pataA.Name = "pataA";
+            this.pataA.Size = new System.Drawing.Size(50, 75);
+            this.pataA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pataA.TabIndex = 13;
+            this.pataA.TabStop = false;
+            this.pataA.Click += new System.EventHandler(this.pataA_Click);
+            // 
+            // pataK
+            // 
+            this.pataK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pataK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pataK.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pataK.Image = global::Sökö_laskuri.Properties.Resources.K_5c366fb22daf149e4539fc7b006e20db;
+            this.pataK.Location = new System.Drawing.Point(622, 19);
+            this.pataK.Name = "pataK";
+            this.pataK.Size = new System.Drawing.Size(50, 75);
+            this.pataK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pataK.TabIndex = 12;
+            this.pataK.TabStop = false;
+            this.pataK.Click += new System.EventHandler(this.pataK_Click);
+            // 
+            // pataQ
+            // 
+            this.pataQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pataQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pataQ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pataQ.Image = global::Sökö_laskuri.Properties.Resources.Q_20989fca1c17a3545d6343a3390d245f;
+            this.pataQ.Location = new System.Drawing.Point(566, 19);
+            this.pataQ.Name = "pataQ";
+            this.pataQ.Size = new System.Drawing.Size(50, 75);
+            this.pataQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pataQ.TabIndex = 11;
+            this.pataQ.TabStop = false;
+            this.pataQ.Click += new System.EventHandler(this.pataQ_Click);
+            // 
+            // pataJ
+            // 
+            this.pataJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pataJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pataJ.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pataJ.Image = global::Sökö_laskuri.Properties.Resources.J_8796f258313daf8acdddf8cb88e951e7;
+            this.pataJ.Location = new System.Drawing.Point(510, 19);
+            this.pataJ.Name = "pataJ";
+            this.pataJ.Size = new System.Drawing.Size(50, 75);
+            this.pataJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pataJ.TabIndex = 10;
+            this.pataJ.TabStop = false;
+            this.pataJ.Click += new System.EventHandler(this.pataJ_Click);
+            // 
+            // pata10
+            // 
+            this.pata10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata10.Image = global::Sökö_laskuri.Properties.Resources.T_a956b31d64ee2a7392744d7a87959f71;
+            this.pata10.Location = new System.Drawing.Point(454, 19);
+            this.pata10.Name = "pata10";
+            this.pata10.Size = new System.Drawing.Size(50, 75);
+            this.pata10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata10.TabIndex = 9;
+            this.pata10.TabStop = false;
+            this.pata10.Click += new System.EventHandler(this.pata10_Click);
+            // 
+            // pata9
+            // 
+            this.pata9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata9.Image = global::Sökö_laskuri.Properties.Resources._9_a5f892d32ffae38a22738ae1687b6844;
+            this.pata9.Location = new System.Drawing.Point(398, 19);
+            this.pata9.Name = "pata9";
+            this.pata9.Size = new System.Drawing.Size(50, 75);
+            this.pata9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata9.TabIndex = 8;
+            this.pata9.TabStop = false;
+            this.pata9.Click += new System.EventHandler(this.pata9_Click);
+            // 
+            // pata8
+            // 
+            this.pata8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata8.Image = global::Sökö_laskuri.Properties.Resources._8_b8584a6139874112d7e4a6d2facbc2e2;
+            this.pata8.Location = new System.Drawing.Point(342, 19);
+            this.pata8.Name = "pata8";
+            this.pata8.Size = new System.Drawing.Size(50, 75);
+            this.pata8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata8.TabIndex = 7;
+            this.pata8.TabStop = false;
+            this.pata8.Click += new System.EventHandler(this.pata8_Click);
+            // 
+            // pata7
+            // 
+            this.pata7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata7.Image = global::Sökö_laskuri.Properties.Resources._7_34cbc0aad8b9ab57160625299892101f;
+            this.pata7.Location = new System.Drawing.Point(286, 19);
+            this.pata7.Name = "pata7";
+            this.pata7.Size = new System.Drawing.Size(50, 75);
+            this.pata7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata7.TabIndex = 6;
+            this.pata7.TabStop = false;
+            this.pata7.Click += new System.EventHandler(this.pata7_Click);
+            // 
+            // pata6
+            // 
+            this.pata6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata6.Image = global::Sökö_laskuri.Properties.Resources._6_8433587a9010fde9fea3f29e431b3413;
+            this.pata6.Location = new System.Drawing.Point(230, 19);
+            this.pata6.Name = "pata6";
+            this.pata6.Size = new System.Drawing.Size(50, 75);
+            this.pata6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata6.TabIndex = 5;
+            this.pata6.TabStop = false;
+            this.pata6.Click += new System.EventHandler(this.pata6_Click);
+            // 
+            // pata5
+            // 
+            this.pata5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata5.Image = global::Sökö_laskuri.Properties.Resources._5_cc221abc62dd896f281171f909473d92;
+            this.pata5.Location = new System.Drawing.Point(174, 19);
+            this.pata5.Name = "pata5";
+            this.pata5.Size = new System.Drawing.Size(50, 75);
+            this.pata5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata5.TabIndex = 4;
+            this.pata5.TabStop = false;
+            this.pata5.Click += new System.EventHandler(this.pata5_Click);
+            // 
+            // pata4
+            // 
+            this.pata4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pata4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pata4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pata4.Image = global::Sökö_laskuri.Properties.Resources._4_5713175c2625725ffd01ed75eb2f9a37;
+            this.pata4.Location = new System.Drawing.Point(118, 19);
+            this.pata4.Name = "pata4";
+            this.pata4.Size = new System.Drawing.Size(50, 75);
+            this.pata4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pata4.TabIndex = 3;
+            this.pata4.TabStop = false;
+            this.pata4.Click += new System.EventHandler(this.pata4_Click);
             // 
             // pata3
             // 
@@ -1579,7 +1632,7 @@
             this.pata3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata3.TabIndex = 2;
             this.pata3.TabStop = false;
-            this.pata3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pata3_MouseClick);
+            this.pata3.Click += new System.EventHandler(this.pata3_Click);
             // 
             // groupBox3
             // 
@@ -2207,59 +2260,59 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata2)).EndInit();
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox84)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox85)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox86)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox87)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox88)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox89)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox90)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox91)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox53)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox54)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox56)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox57)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox58)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox59)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox60)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox61)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox62)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox63)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuA)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuK)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuQ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutuJ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaA)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaK)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaQ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.herttaJ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hertta2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiA)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiK)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiQ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ristiJ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.risti2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataA)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataK)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataQ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pataJ)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pata4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pata3)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
@@ -2364,56 +2417,56 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.PictureBox pictureBox79;
-        private System.Windows.Forms.PictureBox pictureBox80;
-        private System.Windows.Forms.PictureBox pictureBox81;
-        private System.Windows.Forms.PictureBox pictureBox82;
-        private System.Windows.Forms.PictureBox pictureBox83;
-        private System.Windows.Forms.PictureBox pictureBox84;
-        private System.Windows.Forms.PictureBox pictureBox85;
-        private System.Windows.Forms.PictureBox pictureBox86;
-        private System.Windows.Forms.PictureBox pictureBox87;
-        private System.Windows.Forms.PictureBox pictureBox88;
-        private System.Windows.Forms.PictureBox pictureBox89;
-        private System.Windows.Forms.PictureBox pictureBox90;
-        private System.Windows.Forms.PictureBox pictureBox91;
-        private System.Windows.Forms.PictureBox pictureBox66;
-        private System.Windows.Forms.PictureBox pictureBox67;
-        private System.Windows.Forms.PictureBox pictureBox68;
-        private System.Windows.Forms.PictureBox pictureBox69;
-        private System.Windows.Forms.PictureBox pictureBox70;
-        private System.Windows.Forms.PictureBox pictureBox71;
-        private System.Windows.Forms.PictureBox pictureBox72;
-        private System.Windows.Forms.PictureBox pictureBox73;
-        private System.Windows.Forms.PictureBox pictureBox74;
-        private System.Windows.Forms.PictureBox pictureBox75;
-        private System.Windows.Forms.PictureBox pictureBox76;
-        private System.Windows.Forms.PictureBox pictureBox77;
-        private System.Windows.Forms.PictureBox pictureBox78;
-        private System.Windows.Forms.PictureBox pictureBox53;
-        private System.Windows.Forms.PictureBox pictureBox54;
-        private System.Windows.Forms.PictureBox pictureBox55;
-        private System.Windows.Forms.PictureBox pictureBox56;
-        private System.Windows.Forms.PictureBox pictureBox57;
-        private System.Windows.Forms.PictureBox pictureBox58;
-        private System.Windows.Forms.PictureBox pictureBox59;
-        private System.Windows.Forms.PictureBox pictureBox60;
-        private System.Windows.Forms.PictureBox pictureBox61;
-        private System.Windows.Forms.PictureBox pictureBox62;
-        private System.Windows.Forms.PictureBox pictureBox63;
-        private System.Windows.Forms.PictureBox pictureBox64;
-        private System.Windows.Forms.PictureBox pictureBox65;
-        private System.Windows.Forms.PictureBox pictureBox92;
-        private System.Windows.Forms.PictureBox pictureBox93;
-        private System.Windows.Forms.PictureBox pictureBox94;
-        private System.Windows.Forms.PictureBox pictureBox95;
-        private System.Windows.Forms.PictureBox pictureBox96;
-        private System.Windows.Forms.PictureBox pictureBox97;
-        private System.Windows.Forms.PictureBox pictureBox98;
-        private System.Windows.Forms.PictureBox pictureBox99;
-        private System.Windows.Forms.PictureBox pictureBox100;
-        private System.Windows.Forms.PictureBox pictureBox101;
-        private System.Windows.Forms.PictureBox pictureBox102;
+        private System.Windows.Forms.PictureBox ruutuA;
+        private System.Windows.Forms.PictureBox ruutuK;
+        private System.Windows.Forms.PictureBox ruutuQ;
+        private System.Windows.Forms.PictureBox ruutuJ;
+        private System.Windows.Forms.PictureBox ruutu10;
+        private System.Windows.Forms.PictureBox ruutu9;
+        private System.Windows.Forms.PictureBox ruutu8;
+        private System.Windows.Forms.PictureBox ruutu7;
+        private System.Windows.Forms.PictureBox ruutu6;
+        private System.Windows.Forms.PictureBox ruutu5;
+        private System.Windows.Forms.PictureBox ruutu4;
+        private System.Windows.Forms.PictureBox ruutu3;
+        private System.Windows.Forms.PictureBox ruutu2;
+        private System.Windows.Forms.PictureBox herttaA;
+        private System.Windows.Forms.PictureBox herttaK;
+        private System.Windows.Forms.PictureBox herttaQ;
+        private System.Windows.Forms.PictureBox herttaJ;
+        private System.Windows.Forms.PictureBox hertta10;
+        private System.Windows.Forms.PictureBox hertta9;
+        private System.Windows.Forms.PictureBox hertta8;
+        private System.Windows.Forms.PictureBox hertta7;
+        private System.Windows.Forms.PictureBox hertta6;
+        private System.Windows.Forms.PictureBox hertta5;
+        private System.Windows.Forms.PictureBox hertta4;
+        private System.Windows.Forms.PictureBox hertta3;
+        private System.Windows.Forms.PictureBox hertta2;
+        private System.Windows.Forms.PictureBox ristiA;
+        private System.Windows.Forms.PictureBox ristiK;
+        private System.Windows.Forms.PictureBox ristiQ;
+        private System.Windows.Forms.PictureBox ristiJ;
+        private System.Windows.Forms.PictureBox risti10;
+        private System.Windows.Forms.PictureBox risti9;
+        private System.Windows.Forms.PictureBox risti8;
+        private System.Windows.Forms.PictureBox risti7;
+        private System.Windows.Forms.PictureBox risti6;
+        private System.Windows.Forms.PictureBox risti5;
+        private System.Windows.Forms.PictureBox risti4;
+        private System.Windows.Forms.PictureBox risti3;
+        private System.Windows.Forms.PictureBox risti2;
+        private System.Windows.Forms.PictureBox pataA;
+        private System.Windows.Forms.PictureBox pataK;
+        private System.Windows.Forms.PictureBox pataQ;
+        private System.Windows.Forms.PictureBox pataJ;
+        private System.Windows.Forms.PictureBox pata10;
+        private System.Windows.Forms.PictureBox pata9;
+        private System.Windows.Forms.PictureBox pata8;
+        private System.Windows.Forms.PictureBox pata7;
+        private System.Windows.Forms.PictureBox pata6;
+        private System.Windows.Forms.PictureBox pata5;
+        private System.Windows.Forms.PictureBox pata4;
         private System.Windows.Forms.PictureBox pata3;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.CheckBox checkBox1;
@@ -2422,7 +2475,7 @@
         private System.Windows.Forms.PictureBox kasi1_2;
         private System.Windows.Forms.PictureBox pictureBox105;
         private System.Windows.Forms.GroupBox groupBox9;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button resetButton;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.CheckBox checkBox2;
         private System.Windows.Forms.PictureBox kasi2_4;
@@ -2459,9 +2512,10 @@
         private System.Windows.Forms.PictureBox kasi4_5;
         private System.Windows.Forms.PictureBox kasi5_5;
         private System.Windows.Forms.PictureBox kasi6_5;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label pelatutK;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
-        private System.Windows.Forms.PictureBox pictureBox103;
+        private System.Windows.Forms.PictureBox pata2;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 
