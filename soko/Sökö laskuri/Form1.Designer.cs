@@ -931,14 +931,14 @@
             this.pata2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pata2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pata2.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
-            this.pata2.Location = new System.Drawing.Point(9, 29);
+            this.pata2.Location = new System.Drawing.Point(11, 30);
             this.pata2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pata2.Name = "pata2";
             this.pata2.Size = new System.Drawing.Size(74, 114);
             this.pata2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata2.TabIndex = 54;
             this.pata2.TabStop = false;
-            this.pata2.Click += new System.EventHandler(this.pata2_Click);
+            this.pata2.Click += new System.EventHandler(this.kortti_klik);
             // 
             // groupBox9
             // 
@@ -994,7 +994,7 @@
             this.ruutuA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutuA.TabIndex = 52;
             this.ruutuA.TabStop = false;
-            this.ruutuA.Click += new System.EventHandler(this.ruutuA_Click);
+            this.ruutuA.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutuK
             // 
@@ -1009,7 +1009,7 @@
             this.ruutuK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutuK.TabIndex = 51;
             this.ruutuK.TabStop = false;
-            this.ruutuK.Click += new System.EventHandler(this.ruutuK_Click);
+            this.ruutuK.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutuQ
             // 
@@ -1024,7 +1024,7 @@
             this.ruutuQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutuQ.TabIndex = 50;
             this.ruutuQ.TabStop = false;
-            this.ruutuQ.Click += new System.EventHandler(this.ruutuQ_Click);
+            this.ruutuQ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutuJ
             // 
@@ -1039,7 +1039,7 @@
             this.ruutuJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutuJ.TabIndex = 49;
             this.ruutuJ.TabStop = false;
-            this.ruutuJ.Click += new System.EventHandler(this.ruutuJ_Click);
+            this.ruutuJ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu10
             // 
@@ -1054,7 +1054,7 @@
             this.ruutu10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu10.TabIndex = 48;
             this.ruutu10.TabStop = false;
-            this.ruutu10.Click += new System.EventHandler(this.ruutu10_Click);
+            this.ruutu10.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu9
             // 
@@ -1069,7 +1069,7 @@
             this.ruutu9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu9.TabIndex = 47;
             this.ruutu9.TabStop = false;
-            this.ruutu9.Click += new System.EventHandler(this.ruutu9_Click);
+            this.ruutu9.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu8
             // 
@@ -1084,7 +1084,7 @@
             this.ruutu8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu8.TabIndex = 46;
             this.ruutu8.TabStop = false;
-            this.ruutu8.Click += new System.EventHandler(this.ruutu8_Click);
+            this.ruutu8.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu7
             // 
@@ -1099,7 +1099,7 @@
             this.ruutu7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu7.TabIndex = 45;
             this.ruutu7.TabStop = false;
-            this.ruutu7.Click += new System.EventHandler(this.ruutu7_Click);
+            this.ruutu7.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu6
             // 
@@ -1114,7 +1114,7 @@
             this.ruutu6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu6.TabIndex = 44;
             this.ruutu6.TabStop = false;
-            this.ruutu6.Click += new System.EventHandler(this.ruutu6_Click);
+            this.ruutu6.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu5
             // 
@@ -1129,7 +1129,7 @@
             this.ruutu5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu5.TabIndex = 43;
             this.ruutu5.TabStop = false;
-            this.ruutu5.Click += new System.EventHandler(this.ruutu5_Click);
+            this.ruutu5.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu4
             // 
@@ -1144,7 +1144,7 @@
             this.ruutu4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu4.TabIndex = 42;
             this.ruutu4.TabStop = false;
-            this.ruutu4.Click += new System.EventHandler(this.ruutu4_Click);
+            this.ruutu4.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu3
             // 
@@ -1159,7 +1159,7 @@
             this.ruutu3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu3.TabIndex = 41;
             this.ruutu3.TabStop = false;
-            this.ruutu3.Click += new System.EventHandler(this.ruutu3_Click);
+            this.ruutu3.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu2
             // 
@@ -1174,7 +1174,7 @@
             this.ruutu2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ruutu2.TabIndex = 40;
             this.ruutu2.TabStop = false;
-            this.ruutu2.Click += new System.EventHandler(this.ruutu2_Click);
+            this.ruutu2.Click += new System.EventHandler(this.kortti_klik);
             // 
             // herttaA
             // 
@@ -1189,7 +1189,7 @@
             this.herttaA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.herttaA.TabIndex = 39;
             this.herttaA.TabStop = false;
-            this.herttaA.Click += new System.EventHandler(this.herttaA_Click);
+            this.herttaA.Click += new System.EventHandler(this.kortti_klik);
             // 
             // herttaK
             // 
@@ -1204,7 +1204,7 @@
             this.herttaK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.herttaK.TabIndex = 38;
             this.herttaK.TabStop = false;
-            this.herttaK.Click += new System.EventHandler(this.herttaK_Click);
+            this.herttaK.Click += new System.EventHandler(this.kortti_klik);
             // 
             // herttaQ
             // 
@@ -1219,7 +1219,7 @@
             this.herttaQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.herttaQ.TabIndex = 37;
             this.herttaQ.TabStop = false;
-            this.herttaQ.Click += new System.EventHandler(this.herttaQ_Click);
+            this.herttaQ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // herttaJ
             // 
@@ -1234,7 +1234,7 @@
             this.herttaJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.herttaJ.TabIndex = 36;
             this.herttaJ.TabStop = false;
-            this.herttaJ.Click += new System.EventHandler(this.herttaJ_Click);
+            this.herttaJ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta10
             // 
@@ -1249,7 +1249,7 @@
             this.hertta10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta10.TabIndex = 35;
             this.hertta10.TabStop = false;
-            this.hertta10.Click += new System.EventHandler(this.hertta10_Click);
+            this.hertta10.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta9
             // 
@@ -1264,7 +1264,7 @@
             this.hertta9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta9.TabIndex = 34;
             this.hertta9.TabStop = false;
-            this.hertta9.Click += new System.EventHandler(this.hertta9_Click);
+            this.hertta9.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta8
             // 
@@ -1279,7 +1279,7 @@
             this.hertta8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta8.TabIndex = 33;
             this.hertta8.TabStop = false;
-            this.hertta8.Click += new System.EventHandler(this.hertta8_Click);
+            this.hertta8.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta7
             // 
@@ -1294,7 +1294,7 @@
             this.hertta7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta7.TabIndex = 32;
             this.hertta7.TabStop = false;
-            this.hertta7.Click += new System.EventHandler(this.hertta7_Click);
+            this.hertta7.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta6
             // 
@@ -1309,7 +1309,7 @@
             this.hertta6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta6.TabIndex = 31;
             this.hertta6.TabStop = false;
-            this.hertta6.Click += new System.EventHandler(this.hertta6_Click);
+            this.hertta6.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta5
             // 
@@ -1324,7 +1324,7 @@
             this.hertta5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta5.TabIndex = 30;
             this.hertta5.TabStop = false;
-            this.hertta5.Click += new System.EventHandler(this.hertta5_Click);
+            this.hertta5.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta4
             // 
@@ -1339,7 +1339,7 @@
             this.hertta4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta4.TabIndex = 29;
             this.hertta4.TabStop = false;
-            this.hertta4.Click += new System.EventHandler(this.hertta4_Click);
+            this.hertta4.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta3
             // 
@@ -1354,7 +1354,7 @@
             this.hertta3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta3.TabIndex = 28;
             this.hertta3.TabStop = false;
-            this.hertta3.Click += new System.EventHandler(this.hertta3_Click);
+            this.hertta3.Click += new System.EventHandler(this.kortti_klik);
             // 
             // hertta2
             // 
@@ -1369,7 +1369,7 @@
             this.hertta2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.hertta2.TabIndex = 27;
             this.hertta2.TabStop = false;
-            this.hertta2.Click += new System.EventHandler(this.hertta2_Click);
+            this.hertta2.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ristiA
             // 
@@ -1384,7 +1384,7 @@
             this.ristiA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ristiA.TabIndex = 26;
             this.ristiA.TabStop = false;
-            this.ristiA.Click += new System.EventHandler(this.ristiA_Click);
+            this.ristiA.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ristiK
             // 
@@ -1399,7 +1399,7 @@
             this.ristiK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ristiK.TabIndex = 25;
             this.ristiK.TabStop = false;
-            this.ristiK.Click += new System.EventHandler(this.ristiK_Click);
+            this.ristiK.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ristiQ
             // 
@@ -1414,7 +1414,7 @@
             this.ristiQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ristiQ.TabIndex = 24;
             this.ristiQ.TabStop = false;
-            this.ristiQ.Click += new System.EventHandler(this.ristiQ_Click);
+            this.ristiQ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ristiJ
             // 
@@ -1429,7 +1429,7 @@
             this.ristiJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ristiJ.TabIndex = 23;
             this.ristiJ.TabStop = false;
-            this.ristiJ.Click += new System.EventHandler(this.ristiJ_Click);
+            this.ristiJ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti10
             // 
@@ -1444,7 +1444,7 @@
             this.risti10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti10.TabIndex = 22;
             this.risti10.TabStop = false;
-            this.risti10.Click += new System.EventHandler(this.risti10_Click);
+            this.risti10.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti9
             // 
@@ -1459,7 +1459,7 @@
             this.risti9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti9.TabIndex = 21;
             this.risti9.TabStop = false;
-            this.risti9.Click += new System.EventHandler(this.risti9_Click);
+            this.risti9.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti8
             // 
@@ -1474,7 +1474,7 @@
             this.risti8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti8.TabIndex = 20;
             this.risti8.TabStop = false;
-            this.risti8.Click += new System.EventHandler(this.risti8_Click);
+            this.risti8.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti7
             // 
@@ -1489,7 +1489,7 @@
             this.risti7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti7.TabIndex = 19;
             this.risti7.TabStop = false;
-            this.risti7.Click += new System.EventHandler(this.risti7_Click);
+            this.risti7.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti6
             // 
@@ -1504,7 +1504,7 @@
             this.risti6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti6.TabIndex = 18;
             this.risti6.TabStop = false;
-            this.risti6.Click += new System.EventHandler(this.risti6_Click);
+            this.risti6.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti5
             // 
@@ -1519,7 +1519,7 @@
             this.risti5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti5.TabIndex = 17;
             this.risti5.TabStop = false;
-            this.risti5.Click += new System.EventHandler(this.risti5_Click);
+            this.risti5.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti4
             // 
@@ -1534,7 +1534,7 @@
             this.risti4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti4.TabIndex = 16;
             this.risti4.TabStop = false;
-            this.risti4.Click += new System.EventHandler(this.risti4_Click);
+            this.risti4.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti3
             // 
@@ -1549,7 +1549,7 @@
             this.risti3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti3.TabIndex = 15;
             this.risti3.TabStop = false;
-            this.risti3.Click += new System.EventHandler(this.risti3_Click);
+            this.risti3.Click += new System.EventHandler(this.kortti_klik);
             // 
             // risti2
             // 
@@ -1564,7 +1564,7 @@
             this.risti2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.risti2.TabIndex = 14;
             this.risti2.TabStop = false;
-            this.risti2.Click += new System.EventHandler(this.risti2_Click);
+            this.risti2.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pataA
             // 
@@ -1579,7 +1579,7 @@
             this.pataA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pataA.TabIndex = 13;
             this.pataA.TabStop = false;
-            this.pataA.Click += new System.EventHandler(this.pataA_Click);
+            this.pataA.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pataK
             // 
@@ -1594,7 +1594,7 @@
             this.pataK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pataK.TabIndex = 12;
             this.pataK.TabStop = false;
-            this.pataK.Click += new System.EventHandler(this.pataK_Click);
+            this.pataK.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pataQ
             // 
@@ -1609,7 +1609,7 @@
             this.pataQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pataQ.TabIndex = 11;
             this.pataQ.TabStop = false;
-            this.pataQ.Click += new System.EventHandler(this.pataQ_Click);
+            this.pataQ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pataJ
             // 
@@ -1624,7 +1624,7 @@
             this.pataJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pataJ.TabIndex = 10;
             this.pataJ.TabStop = false;
-            this.pataJ.Click += new System.EventHandler(this.pataJ_Click);
+            this.pataJ.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata10
             // 
@@ -1639,7 +1639,7 @@
             this.pata10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata10.TabIndex = 9;
             this.pata10.TabStop = false;
-            this.pata10.Click += new System.EventHandler(this.pata10_Click);
+            this.pata10.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata9
             // 
@@ -1654,7 +1654,7 @@
             this.pata9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata9.TabIndex = 8;
             this.pata9.TabStop = false;
-            this.pata9.Click += new System.EventHandler(this.pata9_Click);
+            this.pata9.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata8
             // 
@@ -1669,7 +1669,7 @@
             this.pata8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata8.TabIndex = 7;
             this.pata8.TabStop = false;
-            this.pata8.Click += new System.EventHandler(this.pata8_Click);
+            this.pata8.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata7
             // 
@@ -1684,7 +1684,7 @@
             this.pata7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata7.TabIndex = 6;
             this.pata7.TabStop = false;
-            this.pata7.Click += new System.EventHandler(this.pata7_Click);
+            this.pata7.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata6
             // 
@@ -1699,7 +1699,7 @@
             this.pata6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata6.TabIndex = 5;
             this.pata6.TabStop = false;
-            this.pata6.Click += new System.EventHandler(this.pata6_Click);
+            this.pata6.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata5
             // 
@@ -1714,7 +1714,7 @@
             this.pata5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata5.TabIndex = 4;
             this.pata5.TabStop = false;
-            this.pata5.Click += new System.EventHandler(this.pata5_Click);
+            this.pata5.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata4
             // 
@@ -1729,7 +1729,7 @@
             this.pata4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata4.TabIndex = 3;
             this.pata4.TabStop = false;
-            this.pata4.Click += new System.EventHandler(this.pata4_Click);
+            this.pata4.Click += new System.EventHandler(this.kortti_klik);
             // 
             // pata3
             // 
@@ -1744,7 +1744,7 @@
             this.pata3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pata3.TabIndex = 2;
             this.pata3.TabStop = false;
-            this.pata3.Click += new System.EventHandler(this.pata3_Click);
+            this.pata3.Click += new System.EventHandler(this.kortti_klik);
             // 
             // groupBox3
             // 
