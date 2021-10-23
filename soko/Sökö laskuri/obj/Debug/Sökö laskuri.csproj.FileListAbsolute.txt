@@ -17,3 +17,13 @@ E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.GenerateRe
 E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.CoreCompileInputs.cache
 E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.exe
 E:\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.pdb
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.exe.config
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.exe
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\bin\Debug\Sökö laskuri.pdb
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.AssemblyReference.cache
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö_laskuri.Form1.resources
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö_laskuri.Properties.Resources.resources
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.GenerateResource.cache
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.csproj.CoreCompileInputs.cache
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.exe
+C:\Users\eero\projektit\Soko\soko\Sökö laskuri\obj\Debug\Sökö laskuri.pdb

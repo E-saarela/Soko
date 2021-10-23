@@ -72,6 +72,7 @@ namespace Sökö_laskuri
             kortit[49] = ruutuQ;
             kortit[50] = ruutuK;
             kortit[51] = ruutuA;
+            
             for(int i = 0; i < kortit.Length - 1; i++)
             {
                 PictureBox uusi = new PictureBox();
@@ -90,8 +91,6 @@ namespace Sökö_laskuri
         }
 
    
-
-
         /////////////////////////////////////////////////////////////////
         ////////////////////////////////////////////////////////////////
         
@@ -103,296 +102,20 @@ namespace Sökö_laskuri
 
             if (e.Button == System.Windows.Forms.MouseButtons.Left)
             {
-                Image tyhja = kasi1_2.Image;
-                kasi1_2.Image = siirrettava[0].Image;
+                PictureBox uusi = (PictureBox)sender;
+                Image tyhja = uusi.Image;
+                uusi.Image = siirrettava[0].Image;
                 siirrettava[0].Image = tyhja;
                 Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi1_2;
+                siirrettava[0] = uusi;
             }
         }
-
-        private void kasi1_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi1_3.Image;
-                kasi1_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi1_3;
-            }
-        }
-
-        private void kasi1_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi1_4.Image;
-                kasi1_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi1_4;
-            }
-        }
-
-        private void kasi1_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi1_5.Image;
-                kasi1_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi1_5;
-            }
-        }
-
-        private void kasi2_2_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi2_2.Image;
-                kasi2_2.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi2_2;
-            }
-        }
-
-        private void kasi2_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi2_3.Image;
-                kasi2_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi2_3;
-            }
-        }
-
-        private void kasi2_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi2_4.Image;
-                kasi2_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi2_4;
-            }
-        }
-
-        private void kasi2_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi2_5.Image;
-                kasi2_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi2_5;
-            }
-        }
-
-        private void kasi3_2_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi3_2.Image;
-                kasi3_2.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi3_2;
-            }
-        }
-
-        private void kasi3_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi3_3.Image;
-                kasi3_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi3_3;
-            }
-        }
-
-        private void kasi3_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi3_4.Image;
-                kasi3_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi3_4;
-            }
-        }
-
-        private void kasi3_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi3_5.Image;
-                kasi3_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi3_5;
-            }
-        }
-
-        private void kasi4_2_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi4_2.Image;
-                kasi4_2.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi4_2;
-            }
-        }
-
-        private void kasi4_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi4_3.Image;
-                kasi4_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi4_3;
-            }
-        }
-
-        private void kasi4_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi4_4.Image;
-                kasi4_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi4_4;
-            }
-        }
-
-        private void kasi4_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi4_5.Image;
-                kasi4_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi4_5;
-            }
-        }
-
-        private void kasi5_2_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi5_2.Image;
-                kasi5_2.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi5_2;
-            }
-        }
-
-        private void kasi5_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi5_3.Image;
-                kasi5_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi5_3;
-            }
-        }
-
-        private void kasi5_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi5_4.Image;
-                kasi5_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi5_4;
-            }
-        }
-
-        private void kasi5_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi5_5.Image;
-                kasi5_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi5_5;
-            }
-        }
-
-        private void kasi6_2_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi6_2.Image;
-                kasi6_2.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi6_2;
-            }
-        }
-
-        private void kasi6_3_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi6_3.Image;
-                kasi6_3.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi6_3;
-            }
-        }
-
-        private void kasi6_4_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi6_4.Image;
-                kasi6_4.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi6_4;
-            }
-        }
-
-        private void kasi6_5_MouseClick(object sender, MouseEventArgs e)
-        {
-            if (e.Button == System.Windows.Forms.MouseButtons.Left)
-            {
-                Image tyhja = kasi6_5.Image;
-                kasi6_5.Image = siirrettava[0].Image;
-                siirrettava[0].Image = tyhja;
-                Array.Clear(siirrettava, 0, siirrettava.Length);
-                siirrettava[0] = kasi6_5;
-            }
-        }
-
 
 
         //////////////////////////////////////////////////////////////////////////////////////////
         /////////////////////////////////////////////////////////////////////////////////////////
         ///kortit
-        
+
 
         private void pata2_Click(object sender, EventArgs e)
         {
