@@ -13,10 +13,12 @@ namespace Sökö_laskuri
 {
     public partial class Form1 : Form
     {
-        PictureBox[] siirrettava = new PictureBox[1];
-        PictureBox[] kortit = new PictureBox[52];
-        PictureBox[] muutetut = new PictureBox[52];
-        int pelatut = 0;
+        private PictureBox[] siirrettava = new PictureBox[1];
+        private PictureBox[] kortit = new PictureBox[52];
+        private PictureBox[] muutetut = new PictureBox[52];
+        private Boolean valittu = false;
+        private Boolean samavalittu = false;
+        private Boolean vaihto = false;
         public Form1()
         {
             InitializeComponent();
@@ -85,10 +87,6 @@ namespace Sökö_laskuri
             }
         }
 
-        private void groupBox9_Enter(object sender, EventArgs e)
-        {
-
-        }
 
 
         private void kasi_klik(Object sender, MouseEventArgs e)
@@ -97,35 +95,75 @@ namespace Sökö_laskuri
             if (e.Button == System.Windows.Forms.MouseButtons.Left)
             {
                 PictureBox uusi = (PictureBox)sender;
+                valittu = false;
+                if (uusi.Image == null || siirrettava[0].Image == null)
+                {
+                    if (samavalittu == true) lisaaCounter();
+                    samavalittu = false;
+                }
                 Image tyhja = uusi.Image;
                 uusi.Image = siirrettava[0].Image;
                 siirrettava[0].Image = tyhja;
                 Array.Clear(siirrettava, 0, siirrettava.Length);
                 siirrettava[0] = uusi;
+     
             }
+
         }
+
  
         private void kortti_klik(object sender, EventArgs e)
         {
-            PictureBox kortti = (PictureBox)sender;
-            if (kortti.Image == null)
-                return;
+            /// pitä erottaa korttien vaihto korttien "pelaamisesta"
+            PictureBox klikattu = (PictureBox)sender;
+            if (klikattu.Image == null)
+            {
+                Image tyhja = klikattu.Image;
+                klikattu.Image = siirrettava[0].Image;
+                siirrettava[0].Image = tyhja;
+                Array.Clear(siirrettava, 0, siirrettava.Length);
+                siirrettava[0] = klikattu;
+                if(samavalittu == false) vahennaCounter();
+                samavalittu = true;
+            }
             else
             {
-                siirrettava[0] = kortti;
-                pelatut++;
+                PictureBox kortti = (PictureBox)sender;
+                if (kortti.Image == null)
+                    return;
+                else
+                {
+                    siirrettava[0] = kortti;
+                }
+                if(valittu == false)
+                {
+                    lisaaCounter();
+                    valittu = true;
+                    samavalittu = false;
+                }
             }
         }
 
         private void resetButton_MouseClick(object sender, MouseEventArgs e)
         {
-            for(int i = 0; i < kortit.Length; i++)
-            {
-                PictureBox uusi = new PictureBox();
-                
-                kortit[i] = muutetut[i];
-            }
-            
+            Application.Restart();
+            Environment.Exit(0);
+        }
+
+        private void lisaaCounter()
+        {
+            string luku = kortit_counter.Text;
+            int arvo = Int16.Parse(luku);
+            arvo++;
+            kortit_counter.Text = arvo.ToString();
+        }
+
+        private void vahennaCounter()
+        {
+            string luku = kortit_counter.Text;
+            int arvo = Int16.Parse(luku);
+            arvo--;
+            kortit_counter.Text = arvo.ToString();
         }
 
     }
