@@ -83,7 +83,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.pata2 = new System.Windows.Forms.PictureBox();
+            this.Pata_2 = new System.Windows.Forms.PictureBox();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.kortit_counter = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
@@ -114,31 +114,31 @@
             this.hertta4 = new System.Windows.Forms.PictureBox();
             this.hertta3 = new System.Windows.Forms.PictureBox();
             this.hertta2 = new System.Windows.Forms.PictureBox();
-            this.ristiA = new System.Windows.Forms.PictureBox();
-            this.ristiK = new System.Windows.Forms.PictureBox();
-            this.ristiQ = new System.Windows.Forms.PictureBox();
-            this.ristiJ = new System.Windows.Forms.PictureBox();
-            this.risti10 = new System.Windows.Forms.PictureBox();
-            this.risti9 = new System.Windows.Forms.PictureBox();
-            this.risti8 = new System.Windows.Forms.PictureBox();
-            this.risti7 = new System.Windows.Forms.PictureBox();
-            this.risti6 = new System.Windows.Forms.PictureBox();
-            this.risti5 = new System.Windows.Forms.PictureBox();
-            this.risti4 = new System.Windows.Forms.PictureBox();
-            this.risti3 = new System.Windows.Forms.PictureBox();
-            this.risti2 = new System.Windows.Forms.PictureBox();
-            this.pataA = new System.Windows.Forms.PictureBox();
-            this.pataK = new System.Windows.Forms.PictureBox();
-            this.pataQ = new System.Windows.Forms.PictureBox();
-            this.pataJ = new System.Windows.Forms.PictureBox();
-            this.pata10 = new System.Windows.Forms.PictureBox();
-            this.pata9 = new System.Windows.Forms.PictureBox();
-            this.pata8 = new System.Windows.Forms.PictureBox();
-            this.pata7 = new System.Windows.Forms.PictureBox();
-            this.pata6 = new System.Windows.Forms.PictureBox();
-            this.pata5 = new System.Windows.Forms.PictureBox();
-            this.pata4 = new System.Windows.Forms.PictureBox();
-            this.pata3 = new System.Windows.Forms.PictureBox();
+            this.Risti_1 = new System.Windows.Forms.PictureBox();
+            this.Risti_13 = new System.Windows.Forms.PictureBox();
+            this.Risti_12 = new System.Windows.Forms.PictureBox();
+            this.Risti_11 = new System.Windows.Forms.PictureBox();
+            this.Risti_10 = new System.Windows.Forms.PictureBox();
+            this.Risti_9 = new System.Windows.Forms.PictureBox();
+            this.Risti_8 = new System.Windows.Forms.PictureBox();
+            this.Risti_7 = new System.Windows.Forms.PictureBox();
+            this.Risti_6 = new System.Windows.Forms.PictureBox();
+            this.Risti_5 = new System.Windows.Forms.PictureBox();
+            this.Risti_4 = new System.Windows.Forms.PictureBox();
+            this.Risti_3 = new System.Windows.Forms.PictureBox();
+            this.Risti_2 = new System.Windows.Forms.PictureBox();
+            this.Pata_1 = new System.Windows.Forms.PictureBox();
+            this.Pata_13 = new System.Windows.Forms.PictureBox();
+            this.Pata_12 = new System.Windows.Forms.PictureBox();
+            this.Pata_11 = new System.Windows.Forms.PictureBox();
+            this.Pata_10 = new System.Windows.Forms.PictureBox();
+            this.Pata_9 = new System.Windows.Forms.PictureBox();
+            this.Pata_8 = new System.Windows.Forms.PictureBox();
+            this.Pata_7 = new System.Windows.Forms.PictureBox();
+            this.Pata_6 = new System.Windows.Forms.PictureBox();
+            this.Pata_5 = new System.Windows.Forms.PictureBox();
+            this.Pata_4 = new System.Windows.Forms.PictureBox();
+            this.Pata_3 = new System.Windows.Forms.PictureBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.kasi1_5 = new System.Windows.Forms.PictureBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
@@ -238,7 +238,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pata2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_2)).BeginInit();
             this.groupBox9.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ruutuA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutuK)).BeginInit();
@@ -266,31 +266,31 @@
             ((System.ComponentModel.ISupportInitialize)(this.hertta4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.hertta3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.hertta2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiA)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiK)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiQ)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiJ)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataA)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataK)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataQ)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataJ)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_3)).BeginInit();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.kasi1_5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.kasi1_4)).BeginInit();
@@ -811,7 +811,7 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.pata2);
+            this.groupBox2.Controls.Add(this.Pata_2);
             this.groupBox2.Controls.Add(this.groupBox9);
             this.groupBox2.Controls.Add(this.ruutuA);
             this.groupBox2.Controls.Add(this.ruutuK);
@@ -839,31 +839,31 @@
             this.groupBox2.Controls.Add(this.hertta4);
             this.groupBox2.Controls.Add(this.hertta3);
             this.groupBox2.Controls.Add(this.hertta2);
-            this.groupBox2.Controls.Add(this.ristiA);
-            this.groupBox2.Controls.Add(this.ristiK);
-            this.groupBox2.Controls.Add(this.ristiQ);
-            this.groupBox2.Controls.Add(this.ristiJ);
-            this.groupBox2.Controls.Add(this.risti10);
-            this.groupBox2.Controls.Add(this.risti9);
-            this.groupBox2.Controls.Add(this.risti8);
-            this.groupBox2.Controls.Add(this.risti7);
-            this.groupBox2.Controls.Add(this.risti6);
-            this.groupBox2.Controls.Add(this.risti5);
-            this.groupBox2.Controls.Add(this.risti4);
-            this.groupBox2.Controls.Add(this.risti3);
-            this.groupBox2.Controls.Add(this.risti2);
-            this.groupBox2.Controls.Add(this.pataA);
-            this.groupBox2.Controls.Add(this.pataK);
-            this.groupBox2.Controls.Add(this.pataQ);
-            this.groupBox2.Controls.Add(this.pataJ);
-            this.groupBox2.Controls.Add(this.pata10);
-            this.groupBox2.Controls.Add(this.pata9);
-            this.groupBox2.Controls.Add(this.pata8);
-            this.groupBox2.Controls.Add(this.pata7);
-            this.groupBox2.Controls.Add(this.pata6);
-            this.groupBox2.Controls.Add(this.pata5);
-            this.groupBox2.Controls.Add(this.pata4);
-            this.groupBox2.Controls.Add(this.pata3);
+            this.groupBox2.Controls.Add(this.Risti_1);
+            this.groupBox2.Controls.Add(this.Risti_13);
+            this.groupBox2.Controls.Add(this.Risti_12);
+            this.groupBox2.Controls.Add(this.Risti_11);
+            this.groupBox2.Controls.Add(this.Risti_10);
+            this.groupBox2.Controls.Add(this.Risti_9);
+            this.groupBox2.Controls.Add(this.Risti_8);
+            this.groupBox2.Controls.Add(this.Risti_7);
+            this.groupBox2.Controls.Add(this.Risti_6);
+            this.groupBox2.Controls.Add(this.Risti_5);
+            this.groupBox2.Controls.Add(this.Risti_4);
+            this.groupBox2.Controls.Add(this.Risti_3);
+            this.groupBox2.Controls.Add(this.Risti_2);
+            this.groupBox2.Controls.Add(this.Pata_1);
+            this.groupBox2.Controls.Add(this.Pata_13);
+            this.groupBox2.Controls.Add(this.Pata_12);
+            this.groupBox2.Controls.Add(this.Pata_11);
+            this.groupBox2.Controls.Add(this.Pata_10);
+            this.groupBox2.Controls.Add(this.Pata_9);
+            this.groupBox2.Controls.Add(this.Pata_8);
+            this.groupBox2.Controls.Add(this.Pata_7);
+            this.groupBox2.Controls.Add(this.Pata_6);
+            this.groupBox2.Controls.Add(this.Pata_5);
+            this.groupBox2.Controls.Add(this.Pata_4);
+            this.groupBox2.Controls.Add(this.Pata_3);
             this.groupBox2.ForeColor = System.Drawing.Color.White;
             this.groupBox2.Location = new System.Drawing.Point(12, 12);
             this.groupBox2.Name = "groupBox2";
@@ -872,19 +872,19 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Valitse kortit";
             // 
-            // pata2
+            // Pata_2
             // 
-            this.pata2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata2.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
-            this.pata2.Location = new System.Drawing.Point(7, 19);
-            this.pata2.Name = "pata2";
-            this.pata2.Size = new System.Drawing.Size(50, 75);
-            this.pata2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata2.TabIndex = 54;
-            this.pata2.TabStop = false;
-            this.pata2.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_2.Image = global::Sökö_laskuri.Properties.Resources._2_c07dff9f866a3c7dccdc0b90918bb583;
+            this.Pata_2.Location = new System.Drawing.Point(7, 19);
+            this.Pata_2.Name = "Pata_2";
+            this.Pata_2.Size = new System.Drawing.Size(50, 75);
+            this.Pata_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_2.TabIndex = 54;
+            this.Pata_2.TabStop = false;
+            this.Pata_2.Click += new System.EventHandler(this.kortti_klik);
             // 
             // groupBox9
             // 
@@ -1296,355 +1296,355 @@
             this.hertta2.TabStop = false;
             this.hertta2.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // ristiA
+            // Risti_1
             // 
-            this.ristiA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ristiA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ristiA.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ristiA.Image = global::Sökö_laskuri.Properties.Resources.A_bf9398d7a9a124f5001c7ad3cd02ed19;
-            this.ristiA.Location = new System.Drawing.Point(678, 100);
-            this.ristiA.Name = "ristiA";
-            this.ristiA.Size = new System.Drawing.Size(50, 75);
-            this.ristiA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.ristiA.TabIndex = 26;
-            this.ristiA.TabStop = false;
-            this.ristiA.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_1.Image = global::Sökö_laskuri.Properties.Resources.A_bf9398d7a9a124f5001c7ad3cd02ed19;
+            this.Risti_1.Location = new System.Drawing.Point(678, 100);
+            this.Risti_1.Name = "Risti_1";
+            this.Risti_1.Size = new System.Drawing.Size(50, 75);
+            this.Risti_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_1.TabIndex = 26;
+            this.Risti_1.TabStop = false;
+            this.Risti_1.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // ristiK
+            // Risti_13
             // 
-            this.ristiK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ristiK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ristiK.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ristiK.Image = global::Sökö_laskuri.Properties.Resources.K_219b2176328afbd044a53908f815d0b9;
-            this.ristiK.Location = new System.Drawing.Point(622, 100);
-            this.ristiK.Name = "ristiK";
-            this.ristiK.Size = new System.Drawing.Size(50, 75);
-            this.ristiK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.ristiK.TabIndex = 25;
-            this.ristiK.TabStop = false;
-            this.ristiK.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_13.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_13.Image = global::Sökö_laskuri.Properties.Resources.K_219b2176328afbd044a53908f815d0b9;
+            this.Risti_13.Location = new System.Drawing.Point(622, 100);
+            this.Risti_13.Name = "Risti_13";
+            this.Risti_13.Size = new System.Drawing.Size(50, 75);
+            this.Risti_13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_13.TabIndex = 25;
+            this.Risti_13.TabStop = false;
+            this.Risti_13.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // ristiQ
+            // Risti_12
             // 
-            this.ristiQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ristiQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ristiQ.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ristiQ.Image = global::Sökö_laskuri.Properties.Resources.Q_abd69f807ca7fef209b5712b76107abb;
-            this.ristiQ.Location = new System.Drawing.Point(566, 100);
-            this.ristiQ.Name = "ristiQ";
-            this.ristiQ.Size = new System.Drawing.Size(50, 75);
-            this.ristiQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.ristiQ.TabIndex = 24;
-            this.ristiQ.TabStop = false;
-            this.ristiQ.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_12.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_12.Image = global::Sökö_laskuri.Properties.Resources.Q_abd69f807ca7fef209b5712b76107abb;
+            this.Risti_12.Location = new System.Drawing.Point(566, 100);
+            this.Risti_12.Name = "Risti_12";
+            this.Risti_12.Size = new System.Drawing.Size(50, 75);
+            this.Risti_12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_12.TabIndex = 24;
+            this.Risti_12.TabStop = false;
+            this.Risti_12.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // ristiJ
+            // Risti_11
             // 
-            this.ristiJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ristiJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ristiJ.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ristiJ.Image = global::Sökö_laskuri.Properties.Resources.J_29ead4601e8cfc2d79768214f84669ef;
-            this.ristiJ.Location = new System.Drawing.Point(510, 100);
-            this.ristiJ.Name = "ristiJ";
-            this.ristiJ.Size = new System.Drawing.Size(50, 75);
-            this.ristiJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.ristiJ.TabIndex = 23;
-            this.ristiJ.TabStop = false;
-            this.ristiJ.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_11.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_11.Image = global::Sökö_laskuri.Properties.Resources.J_29ead4601e8cfc2d79768214f84669ef;
+            this.Risti_11.Location = new System.Drawing.Point(510, 100);
+            this.Risti_11.Name = "Risti_11";
+            this.Risti_11.Size = new System.Drawing.Size(50, 75);
+            this.Risti_11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_11.TabIndex = 23;
+            this.Risti_11.TabStop = false;
+            this.Risti_11.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti10
+            // Risti_10
             // 
-            this.risti10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti10.Image = global::Sökö_laskuri.Properties.Resources.T_acfaa38639aaa07d30ad03a8b25cc740;
-            this.risti10.Location = new System.Drawing.Point(454, 100);
-            this.risti10.Name = "risti10";
-            this.risti10.Size = new System.Drawing.Size(50, 75);
-            this.risti10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti10.TabIndex = 22;
-            this.risti10.TabStop = false;
-            this.risti10.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_10.Image = global::Sökö_laskuri.Properties.Resources.T_acfaa38639aaa07d30ad03a8b25cc740;
+            this.Risti_10.Location = new System.Drawing.Point(454, 100);
+            this.Risti_10.Name = "Risti_10";
+            this.Risti_10.Size = new System.Drawing.Size(50, 75);
+            this.Risti_10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_10.TabIndex = 22;
+            this.Risti_10.TabStop = false;
+            this.Risti_10.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti9
+            // Risti_9
             // 
-            this.risti9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti9.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti9.Image = global::Sökö_laskuri.Properties.Resources._9_44cd08aea0f02b867c4bf43bff3df9e9;
-            this.risti9.Location = new System.Drawing.Point(398, 100);
-            this.risti9.Name = "risti9";
-            this.risti9.Size = new System.Drawing.Size(50, 75);
-            this.risti9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti9.TabIndex = 21;
-            this.risti9.TabStop = false;
-            this.risti9.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_9.Image = global::Sökö_laskuri.Properties.Resources._9_44cd08aea0f02b867c4bf43bff3df9e9;
+            this.Risti_9.Location = new System.Drawing.Point(398, 100);
+            this.Risti_9.Name = "Risti_9";
+            this.Risti_9.Size = new System.Drawing.Size(50, 75);
+            this.Risti_9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_9.TabIndex = 21;
+            this.Risti_9.TabStop = false;
+            this.Risti_9.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti8
+            // Risti_8
             // 
-            this.risti8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti8.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti8.Image = global::Sökö_laskuri.Properties.Resources._8_bb4d5f82d8b72a75cf5851b3163f40c6;
-            this.risti8.Location = new System.Drawing.Point(342, 100);
-            this.risti8.Name = "risti8";
-            this.risti8.Size = new System.Drawing.Size(50, 75);
-            this.risti8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti8.TabIndex = 20;
-            this.risti8.TabStop = false;
-            this.risti8.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_8.Image = global::Sökö_laskuri.Properties.Resources._8_bb4d5f82d8b72a75cf5851b3163f40c6;
+            this.Risti_8.Location = new System.Drawing.Point(342, 100);
+            this.Risti_8.Name = "Risti_8";
+            this.Risti_8.Size = new System.Drawing.Size(50, 75);
+            this.Risti_8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_8.TabIndex = 20;
+            this.Risti_8.TabStop = false;
+            this.Risti_8.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti7
+            // Risti_7
             // 
-            this.risti7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti7.Image = global::Sökö_laskuri.Properties.Resources._7_59582b248b29ce0ec0e6ccc18a73356f;
-            this.risti7.Location = new System.Drawing.Point(286, 100);
-            this.risti7.Name = "risti7";
-            this.risti7.Size = new System.Drawing.Size(50, 75);
-            this.risti7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti7.TabIndex = 19;
-            this.risti7.TabStop = false;
-            this.risti7.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_7.Image = global::Sökö_laskuri.Properties.Resources._7_59582b248b29ce0ec0e6ccc18a73356f;
+            this.Risti_7.Location = new System.Drawing.Point(286, 100);
+            this.Risti_7.Name = "Risti_7";
+            this.Risti_7.Size = new System.Drawing.Size(50, 75);
+            this.Risti_7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_7.TabIndex = 19;
+            this.Risti_7.TabStop = false;
+            this.Risti_7.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti6
+            // Risti_6
             // 
-            this.risti6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti6.Image = global::Sökö_laskuri.Properties.Resources._6_ec8836e3292031f99ba9d4049e15d83e;
-            this.risti6.Location = new System.Drawing.Point(230, 100);
-            this.risti6.Name = "risti6";
-            this.risti6.Size = new System.Drawing.Size(50, 75);
-            this.risti6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti6.TabIndex = 18;
-            this.risti6.TabStop = false;
-            this.risti6.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_6.Image = global::Sökö_laskuri.Properties.Resources._6_ec8836e3292031f99ba9d4049e15d83e;
+            this.Risti_6.Location = new System.Drawing.Point(230, 100);
+            this.Risti_6.Name = "Risti_6";
+            this.Risti_6.Size = new System.Drawing.Size(50, 75);
+            this.Risti_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_6.TabIndex = 18;
+            this.Risti_6.TabStop = false;
+            this.Risti_6.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti5
+            // Risti_5
             // 
-            this.risti5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti5.Image = global::Sökö_laskuri.Properties.Resources._5_5e8e3e67a4181a306e7e689ec6659858;
-            this.risti5.Location = new System.Drawing.Point(174, 100);
-            this.risti5.Name = "risti5";
-            this.risti5.Size = new System.Drawing.Size(50, 75);
-            this.risti5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti5.TabIndex = 17;
-            this.risti5.TabStop = false;
-            this.risti5.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_5.Image = global::Sökö_laskuri.Properties.Resources._5_5e8e3e67a4181a306e7e689ec6659858;
+            this.Risti_5.Location = new System.Drawing.Point(174, 100);
+            this.Risti_5.Name = "Risti_5";
+            this.Risti_5.Size = new System.Drawing.Size(50, 75);
+            this.Risti_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_5.TabIndex = 17;
+            this.Risti_5.TabStop = false;
+            this.Risti_5.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti4
+            // Risti_4
             // 
-            this.risti4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti4.Image = global::Sökö_laskuri.Properties.Resources._4_bd9c25d6bd948331b645f261914bee31;
-            this.risti4.Location = new System.Drawing.Point(118, 100);
-            this.risti4.Name = "risti4";
-            this.risti4.Size = new System.Drawing.Size(50, 75);
-            this.risti4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti4.TabIndex = 16;
-            this.risti4.TabStop = false;
-            this.risti4.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_4.Image = global::Sökö_laskuri.Properties.Resources._4_bd9c25d6bd948331b645f261914bee31;
+            this.Risti_4.Location = new System.Drawing.Point(118, 100);
+            this.Risti_4.Name = "Risti_4";
+            this.Risti_4.Size = new System.Drawing.Size(50, 75);
+            this.Risti_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_4.TabIndex = 16;
+            this.Risti_4.TabStop = false;
+            this.Risti_4.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti3
+            // Risti_3
             // 
-            this.risti3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti3.Image = global::Sökö_laskuri.Properties.Resources._3_9bb8ec1304eb5fb3312f475c5de29b45;
-            this.risti3.Location = new System.Drawing.Point(62, 100);
-            this.risti3.Name = "risti3";
-            this.risti3.Size = new System.Drawing.Size(50, 75);
-            this.risti3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti3.TabIndex = 15;
-            this.risti3.TabStop = false;
-            this.risti3.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_3.Image = global::Sökö_laskuri.Properties.Resources._3_9bb8ec1304eb5fb3312f475c5de29b45;
+            this.Risti_3.Location = new System.Drawing.Point(62, 100);
+            this.Risti_3.Name = "Risti_3";
+            this.Risti_3.Size = new System.Drawing.Size(50, 75);
+            this.Risti_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_3.TabIndex = 15;
+            this.Risti_3.TabStop = false;
+            this.Risti_3.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // risti2
+            // Risti_2
             // 
-            this.risti2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.risti2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.risti2.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.risti2.Image = global::Sökö_laskuri.Properties.Resources._2_39418f7c31cedc5d4e676813120d48d5;
-            this.risti2.Location = new System.Drawing.Point(6, 100);
-            this.risti2.Name = "risti2";
-            this.risti2.Size = new System.Drawing.Size(50, 75);
-            this.risti2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.risti2.TabIndex = 14;
-            this.risti2.TabStop = false;
-            this.risti2.Click += new System.EventHandler(this.kortti_klik);
+            this.Risti_2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Risti_2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Risti_2.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Risti_2.Image = global::Sökö_laskuri.Properties.Resources._2_39418f7c31cedc5d4e676813120d48d5;
+            this.Risti_2.Location = new System.Drawing.Point(6, 100);
+            this.Risti_2.Name = "Risti_2";
+            this.Risti_2.Size = new System.Drawing.Size(50, 75);
+            this.Risti_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Risti_2.TabIndex = 14;
+            this.Risti_2.TabStop = false;
+            this.Risti_2.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pataA
+            // Pata_1
             // 
-            this.pataA.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pataA.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pataA.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pataA.Image = global::Sökö_laskuri.Properties.Resources.A_b5d825abd9516ea9d9a63c93d8f162a6;
-            this.pataA.Location = new System.Drawing.Point(678, 19);
-            this.pataA.Name = "pataA";
-            this.pataA.Size = new System.Drawing.Size(50, 75);
-            this.pataA.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pataA.TabIndex = 13;
-            this.pataA.TabStop = false;
-            this.pataA.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_1.Image = global::Sökö_laskuri.Properties.Resources.A_b5d825abd9516ea9d9a63c93d8f162a6;
+            this.Pata_1.Location = new System.Drawing.Point(678, 19);
+            this.Pata_1.Name = "Pata_1";
+            this.Pata_1.Size = new System.Drawing.Size(50, 75);
+            this.Pata_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_1.TabIndex = 13;
+            this.Pata_1.TabStop = false;
+            this.Pata_1.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pataK
+            // Pata_13
             // 
-            this.pataK.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pataK.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pataK.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pataK.Image = global::Sökö_laskuri.Properties.Resources.K_5c366fb22daf149e4539fc7b006e20db;
-            this.pataK.Location = new System.Drawing.Point(622, 19);
-            this.pataK.Name = "pataK";
-            this.pataK.Size = new System.Drawing.Size(50, 75);
-            this.pataK.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pataK.TabIndex = 12;
-            this.pataK.TabStop = false;
-            this.pataK.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_13.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_13.Image = global::Sökö_laskuri.Properties.Resources.K_5c366fb22daf149e4539fc7b006e20db;
+            this.Pata_13.Location = new System.Drawing.Point(622, 19);
+            this.Pata_13.Name = "Pata_13";
+            this.Pata_13.Size = new System.Drawing.Size(50, 75);
+            this.Pata_13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_13.TabIndex = 12;
+            this.Pata_13.TabStop = false;
+            this.Pata_13.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pataQ
+            // Pata_12
             // 
-            this.pataQ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pataQ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pataQ.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pataQ.Image = global::Sökö_laskuri.Properties.Resources.Q_20989fca1c17a3545d6343a3390d245f;
-            this.pataQ.Location = new System.Drawing.Point(566, 19);
-            this.pataQ.Name = "pataQ";
-            this.pataQ.Size = new System.Drawing.Size(50, 75);
-            this.pataQ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pataQ.TabIndex = 11;
-            this.pataQ.TabStop = false;
-            this.pataQ.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_12.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_12.Image = global::Sökö_laskuri.Properties.Resources.Q_20989fca1c17a3545d6343a3390d245f;
+            this.Pata_12.Location = new System.Drawing.Point(566, 19);
+            this.Pata_12.Name = "Pata_12";
+            this.Pata_12.Size = new System.Drawing.Size(50, 75);
+            this.Pata_12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_12.TabIndex = 11;
+            this.Pata_12.TabStop = false;
+            this.Pata_12.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pataJ
+            // Pata_11
             // 
-            this.pataJ.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pataJ.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pataJ.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pataJ.Image = global::Sökö_laskuri.Properties.Resources.J_8796f258313daf8acdddf8cb88e951e7;
-            this.pataJ.Location = new System.Drawing.Point(510, 19);
-            this.pataJ.Name = "pataJ";
-            this.pataJ.Size = new System.Drawing.Size(50, 75);
-            this.pataJ.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pataJ.TabIndex = 10;
-            this.pataJ.TabStop = false;
-            this.pataJ.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_11.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_11.Image = global::Sökö_laskuri.Properties.Resources.J_8796f258313daf8acdddf8cb88e951e7;
+            this.Pata_11.Location = new System.Drawing.Point(510, 19);
+            this.Pata_11.Name = "Pata_11";
+            this.Pata_11.Size = new System.Drawing.Size(50, 75);
+            this.Pata_11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_11.TabIndex = 10;
+            this.Pata_11.TabStop = false;
+            this.Pata_11.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata10
+            // Pata_10
             // 
-            this.pata10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata10.Image = global::Sökö_laskuri.Properties.Resources.T_a956b31d64ee2a7392744d7a87959f71;
-            this.pata10.Location = new System.Drawing.Point(454, 19);
-            this.pata10.Name = "pata10";
-            this.pata10.Size = new System.Drawing.Size(50, 75);
-            this.pata10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata10.TabIndex = 9;
-            this.pata10.TabStop = false;
-            this.pata10.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_10.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_10.Image = global::Sökö_laskuri.Properties.Resources.T_a956b31d64ee2a7392744d7a87959f71;
+            this.Pata_10.Location = new System.Drawing.Point(454, 19);
+            this.Pata_10.Name = "Pata_10";
+            this.Pata_10.Size = new System.Drawing.Size(50, 75);
+            this.Pata_10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_10.TabIndex = 9;
+            this.Pata_10.TabStop = false;
+            this.Pata_10.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata9
+            // Pata_9
             // 
-            this.pata9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata9.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata9.Image = global::Sökö_laskuri.Properties.Resources._9_a5f892d32ffae38a22738ae1687b6844;
-            this.pata9.Location = new System.Drawing.Point(398, 19);
-            this.pata9.Name = "pata9";
-            this.pata9.Size = new System.Drawing.Size(50, 75);
-            this.pata9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata9.TabIndex = 8;
-            this.pata9.TabStop = false;
-            this.pata9.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_9.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_9.Image = global::Sökö_laskuri.Properties.Resources._9_a5f892d32ffae38a22738ae1687b6844;
+            this.Pata_9.Location = new System.Drawing.Point(398, 19);
+            this.Pata_9.Name = "Pata_9";
+            this.Pata_9.Size = new System.Drawing.Size(50, 75);
+            this.Pata_9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_9.TabIndex = 8;
+            this.Pata_9.TabStop = false;
+            this.Pata_9.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata8
+            // Pata_8
             // 
-            this.pata8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata8.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata8.Image = global::Sökö_laskuri.Properties.Resources._8_b8584a6139874112d7e4a6d2facbc2e2;
-            this.pata8.Location = new System.Drawing.Point(342, 19);
-            this.pata8.Name = "pata8";
-            this.pata8.Size = new System.Drawing.Size(50, 75);
-            this.pata8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata8.TabIndex = 7;
-            this.pata8.TabStop = false;
-            this.pata8.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_8.Image = global::Sökö_laskuri.Properties.Resources._8_b8584a6139874112d7e4a6d2facbc2e2;
+            this.Pata_8.Location = new System.Drawing.Point(342, 19);
+            this.Pata_8.Name = "Pata_8";
+            this.Pata_8.Size = new System.Drawing.Size(50, 75);
+            this.Pata_8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_8.TabIndex = 7;
+            this.Pata_8.TabStop = false;
+            this.Pata_8.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata7
+            // Pata_7
             // 
-            this.pata7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata7.Image = global::Sökö_laskuri.Properties.Resources._7_34cbc0aad8b9ab57160625299892101f;
-            this.pata7.Location = new System.Drawing.Point(286, 19);
-            this.pata7.Name = "pata7";
-            this.pata7.Size = new System.Drawing.Size(50, 75);
-            this.pata7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata7.TabIndex = 6;
-            this.pata7.TabStop = false;
-            this.pata7.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_7.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_7.Image = global::Sökö_laskuri.Properties.Resources._7_34cbc0aad8b9ab57160625299892101f;
+            this.Pata_7.Location = new System.Drawing.Point(286, 19);
+            this.Pata_7.Name = "Pata_7";
+            this.Pata_7.Size = new System.Drawing.Size(50, 75);
+            this.Pata_7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_7.TabIndex = 6;
+            this.Pata_7.TabStop = false;
+            this.Pata_7.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata6
+            // Pata_6
             // 
-            this.pata6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata6.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata6.Image = global::Sökö_laskuri.Properties.Resources._6_8433587a9010fde9fea3f29e431b3413;
-            this.pata6.Location = new System.Drawing.Point(230, 19);
-            this.pata6.Name = "pata6";
-            this.pata6.Size = new System.Drawing.Size(50, 75);
-            this.pata6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata6.TabIndex = 5;
-            this.pata6.TabStop = false;
-            this.pata6.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_6.Image = global::Sökö_laskuri.Properties.Resources._6_8433587a9010fde9fea3f29e431b3413;
+            this.Pata_6.Location = new System.Drawing.Point(230, 19);
+            this.Pata_6.Name = "Pata_6";
+            this.Pata_6.Size = new System.Drawing.Size(50, 75);
+            this.Pata_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_6.TabIndex = 5;
+            this.Pata_6.TabStop = false;
+            this.Pata_6.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata5
+            // Pata_5
             // 
-            this.pata5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata5.Image = global::Sökö_laskuri.Properties.Resources._5_cc221abc62dd896f281171f909473d92;
-            this.pata5.Location = new System.Drawing.Point(174, 19);
-            this.pata5.Name = "pata5";
-            this.pata5.Size = new System.Drawing.Size(50, 75);
-            this.pata5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata5.TabIndex = 4;
-            this.pata5.TabStop = false;
-            this.pata5.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_5.Image = global::Sökö_laskuri.Properties.Resources._5_cc221abc62dd896f281171f909473d92;
+            this.Pata_5.Location = new System.Drawing.Point(174, 19);
+            this.Pata_5.Name = "Pata_5";
+            this.Pata_5.Size = new System.Drawing.Size(50, 75);
+            this.Pata_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_5.TabIndex = 4;
+            this.Pata_5.TabStop = false;
+            this.Pata_5.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata4
+            // Pata_4
             // 
-            this.pata4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata4.Image = global::Sökö_laskuri.Properties.Resources._4_5713175c2625725ffd01ed75eb2f9a37;
-            this.pata4.Location = new System.Drawing.Point(118, 19);
-            this.pata4.Name = "pata4";
-            this.pata4.Size = new System.Drawing.Size(50, 75);
-            this.pata4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata4.TabIndex = 3;
-            this.pata4.TabStop = false;
-            this.pata4.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_4.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_4.Image = global::Sökö_laskuri.Properties.Resources._4_5713175c2625725ffd01ed75eb2f9a37;
+            this.Pata_4.Location = new System.Drawing.Point(118, 19);
+            this.Pata_4.Name = "Pata_4";
+            this.Pata_4.Size = new System.Drawing.Size(50, 75);
+            this.Pata_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_4.TabIndex = 3;
+            this.Pata_4.TabStop = false;
+            this.Pata_4.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // pata3
+            // Pata_3
             // 
-            this.pata3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pata3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pata3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pata3.Image = global::Sökö_laskuri.Properties.Resources._3_e088d25fb2cf1377233f09d93d5a4712;
-            this.pata3.Location = new System.Drawing.Point(62, 19);
-            this.pata3.Name = "pata3";
-            this.pata3.Size = new System.Drawing.Size(50, 75);
-            this.pata3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pata3.TabIndex = 2;
-            this.pata3.TabStop = false;
-            this.pata3.Click += new System.EventHandler(this.kortti_klik);
+            this.Pata_3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.Pata_3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Pata_3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Pata_3.Image = global::Sökö_laskuri.Properties.Resources._3_e088d25fb2cf1377233f09d93d5a4712;
+            this.Pata_3.Location = new System.Drawing.Point(62, 19);
+            this.Pata_3.Name = "Pata_3";
+            this.Pata_3.Size = new System.Drawing.Size(50, 75);
+            this.Pata_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.Pata_3.TabIndex = 2;
+            this.Pata_3.TabStop = false;
+            this.Pata_3.Click += new System.EventHandler(this.kortti_klik);
             // 
             // groupBox3
             // 
@@ -1673,6 +1673,7 @@
             this.kasi1_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_5.TabIndex = 57;
             this.kasi1_5.TabStop = false;
+            this.kasi1_5.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // checkBox1
@@ -1696,6 +1697,7 @@
             this.kasi1_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_4.TabIndex = 56;
             this.kasi1_4.TabStop = false;
+            this.kasi1_4.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // kasi1_3
@@ -1709,6 +1711,7 @@
             this.kasi1_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_3.TabIndex = 55;
             this.kasi1_3.TabStop = false;
+            this.kasi1_3.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // kasi1_2
@@ -1722,6 +1725,7 @@
             this.kasi1_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_2.TabIndex = 54;
             this.kasi1_2.TabStop = false;
+            this.kasi1_2.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // pictureBox105
@@ -1736,6 +1740,7 @@
             this.pictureBox105.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox105.TabIndex = 53;
             this.pictureBox105.TabStop = false;
+            this.pictureBox105.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // groupBox4
             // 
@@ -2272,7 +2277,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pata2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_2)).EndInit();
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ruutuA)).EndInit();
@@ -2301,31 +2306,31 @@
             ((System.ComponentModel.ISupportInitialize)(this.hertta4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.hertta3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.hertta2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiA)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiK)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiQ)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ristiJ)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.risti2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataA)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataK)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataQ)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pataJ)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pata3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Risti_2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Pata_3)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.kasi1_5)).EndInit();
@@ -2370,7 +2375,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             
-            this.ResumeLayout(false);
 
         }
 
@@ -2456,31 +2460,31 @@
         private System.Windows.Forms.PictureBox hertta4;
         private System.Windows.Forms.PictureBox hertta3;
         private System.Windows.Forms.PictureBox hertta2;
-        private System.Windows.Forms.PictureBox ristiA;
-        private System.Windows.Forms.PictureBox ristiK;
-        private System.Windows.Forms.PictureBox ristiQ;
-        private System.Windows.Forms.PictureBox ristiJ;
-        private System.Windows.Forms.PictureBox risti10;
-        private System.Windows.Forms.PictureBox risti9;
-        private System.Windows.Forms.PictureBox risti8;
-        private System.Windows.Forms.PictureBox risti7;
-        private System.Windows.Forms.PictureBox risti6;
-        private System.Windows.Forms.PictureBox risti5;
-        private System.Windows.Forms.PictureBox risti4;
-        private System.Windows.Forms.PictureBox risti3;
-        private System.Windows.Forms.PictureBox risti2;
-        private System.Windows.Forms.PictureBox pataA;
-        private System.Windows.Forms.PictureBox pataK;
-        private System.Windows.Forms.PictureBox pataQ;
-        private System.Windows.Forms.PictureBox pataJ;
-        private System.Windows.Forms.PictureBox pata10;
-        private System.Windows.Forms.PictureBox pata9;
-        private System.Windows.Forms.PictureBox pata8;
-        private System.Windows.Forms.PictureBox pata7;
-        private System.Windows.Forms.PictureBox pata6;
-        private System.Windows.Forms.PictureBox pata5;
-        private System.Windows.Forms.PictureBox pata4;
-        private System.Windows.Forms.PictureBox pata3;
+        private System.Windows.Forms.PictureBox Risti_1;
+        private System.Windows.Forms.PictureBox Risti_13;
+        private System.Windows.Forms.PictureBox Risti_12;
+        private System.Windows.Forms.PictureBox Risti_11;
+        private System.Windows.Forms.PictureBox Risti_10;
+        private System.Windows.Forms.PictureBox Risti_9;
+        private System.Windows.Forms.PictureBox Risti_8;
+        private System.Windows.Forms.PictureBox Risti_7;
+        private System.Windows.Forms.PictureBox Risti_6;
+        private System.Windows.Forms.PictureBox Risti_5;
+        private System.Windows.Forms.PictureBox Risti_4;
+        private System.Windows.Forms.PictureBox Risti_3;
+        private System.Windows.Forms.PictureBox Risti_2;
+        private System.Windows.Forms.PictureBox Pata_1;
+        private System.Windows.Forms.PictureBox Pata_13;
+        private System.Windows.Forms.PictureBox Pata_12;
+        private System.Windows.Forms.PictureBox Pata_11;
+        private System.Windows.Forms.PictureBox Pata_10;
+        private System.Windows.Forms.PictureBox Pata_9;
+        private System.Windows.Forms.PictureBox Pata_8;
+        private System.Windows.Forms.PictureBox Pata_7;
+        private System.Windows.Forms.PictureBox Pata_6;
+        private System.Windows.Forms.PictureBox Pata_5;
+        private System.Windows.Forms.PictureBox Pata_4;
+        private System.Windows.Forms.PictureBox Pata_3;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.PictureBox kasi1_4;
@@ -2526,7 +2530,7 @@
         private System.Windows.Forms.PictureBox kasi5_5;
         private System.Windows.Forms.PictureBox kasi6_5;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
-        private System.Windows.Forms.PictureBox pata2;
+        private System.Windows.Forms.PictureBox Pata_2;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.Label kortit_counter;
         private System.Windows.Forms.Label label1;

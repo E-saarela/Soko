@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace soko
+namespace Sökö_laskuri
 {
 	public enum Arvo
 	{
