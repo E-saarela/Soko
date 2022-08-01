@@ -1777,6 +1777,7 @@
             this.cb2.TabIndex = 2;
             this.cb2.Text = "FOLD";
             this.cb2.UseVisualStyleBackColor = true;
+            this.cb2.Click += new System.EventHandler(this.fold);
             // 
             // kasi2_4
             // 
@@ -1868,6 +1869,7 @@
             this.cb3.TabIndex = 2;
             this.cb3.Text = "FOLD";
             this.cb3.UseVisualStyleBackColor = true;
+            this.cb3.Click += new System.EventHandler(this.fold);
             // 
             // kasi3_4
             // 
@@ -1959,6 +1961,7 @@
             this.cb4.TabIndex = 2;
             this.cb4.Text = "FOLD";
             this.cb4.UseVisualStyleBackColor = true;
+            this.cb4.Click += new System.EventHandler(this.fold);
             // 
             // kasi4_4
             // 
@@ -2050,6 +2053,7 @@
             this.cb5.TabIndex = 2;
             this.cb5.Text = "FOLD";
             this.cb5.UseVisualStyleBackColor = true;
+            this.cb5.Click += new System.EventHandler(this.fold);
             // 
             // kasi5_4
             // 
@@ -2141,6 +2145,7 @@
             this.cb6.TabIndex = 2;
             this.cb6.Text = "FOLD";
             this.cb6.UseVisualStyleBackColor = true;
+            this.cb6.Click += new System.EventHandler(this.fold);
             // 
             // kasi6_4
             // 
