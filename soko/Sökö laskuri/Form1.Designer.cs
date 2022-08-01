@@ -97,7 +97,7 @@
             this.ruutu8 = new System.Windows.Forms.PictureBox();
             this.ruutu7 = new System.Windows.Forms.PictureBox();
             this.ruutu6 = new System.Windows.Forms.PictureBox();
-            this.ruutu5 = new System.Windows.Forms.PictureBox();
+            this.ruutu_5 = new System.Windows.Forms.PictureBox();
             this.ruutu4 = new System.Windows.Forms.PictureBox();
             this.ruutu3 = new System.Windows.Forms.PictureBox();
             this.ruutu2 = new System.Windows.Forms.PictureBox();
@@ -141,42 +141,42 @@
             this.Pata_3 = new System.Windows.Forms.PictureBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.kasi1_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
+            this.cb1 = new System.Windows.Forms.CheckBox();
             this.kasi1_4 = new System.Windows.Forms.PictureBox();
             this.kasi1_3 = new System.Windows.Forms.PictureBox();
             this.kasi1_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox105 = new System.Windows.Forms.PictureBox();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.kasi2_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
+            this.cb2 = new System.Windows.Forms.CheckBox();
             this.kasi2_4 = new System.Windows.Forms.PictureBox();
             this.kasi2_3 = new System.Windows.Forms.PictureBox();
             this.kasi2_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox114 = new System.Windows.Forms.PictureBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.kasi3_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
+            this.cb3 = new System.Windows.Forms.CheckBox();
             this.kasi3_4 = new System.Windows.Forms.PictureBox();
             this.kasi3_3 = new System.Windows.Forms.PictureBox();
             this.kasi3_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox119 = new System.Windows.Forms.PictureBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
             this.kasi4_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
+            this.cb4 = new System.Windows.Forms.CheckBox();
             this.kasi4_4 = new System.Windows.Forms.PictureBox();
             this.kasi4_3 = new System.Windows.Forms.PictureBox();
             this.kasi4_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox124 = new System.Windows.Forms.PictureBox();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
             this.kasi5_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.cb5 = new System.Windows.Forms.CheckBox();
             this.kasi5_4 = new System.Windows.Forms.PictureBox();
             this.kasi5_3 = new System.Windows.Forms.PictureBox();
             this.kasi5_2 = new System.Windows.Forms.PictureBox();
             this.pictureBox129 = new System.Windows.Forms.PictureBox();
             this.groupBox8 = new System.Windows.Forms.GroupBox();
             this.kasi6_5 = new System.Windows.Forms.PictureBox();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
+            this.cb6 = new System.Windows.Forms.CheckBox();
             this.kasi6_4 = new System.Windows.Forms.PictureBox();
             this.kasi6_3 = new System.Windows.Forms.PictureBox();
             this.kasi6_2 = new System.Windows.Forms.PictureBox();
@@ -249,7 +249,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.ruutu8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ruutu5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu_5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu2)).BeginInit();
@@ -822,7 +822,7 @@
             this.groupBox2.Controls.Add(this.ruutu8);
             this.groupBox2.Controls.Add(this.ruutu7);
             this.groupBox2.Controls.Add(this.ruutu6);
-            this.groupBox2.Controls.Add(this.ruutu5);
+            this.groupBox2.Controls.Add(this.ruutu_5);
             this.groupBox2.Controls.Add(this.ruutu4);
             this.groupBox2.Controls.Add(this.ruutu3);
             this.groupBox2.Controls.Add(this.ruutu2);
@@ -1058,19 +1058,19 @@
             this.ruutu6.TabStop = false;
             this.ruutu6.Click += new System.EventHandler(this.kortti_klik);
             // 
-            // ruutu5
+            // ruutu_5
             // 
-            this.ruutu5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ruutu5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ruutu5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ruutu5.Image = global::Sökö_laskuri.Properties.Resources._5_409cb091d7e78524f457c47453621e0b;
-            this.ruutu5.Location = new System.Drawing.Point(174, 262);
-            this.ruutu5.Name = "ruutu5";
-            this.ruutu5.Size = new System.Drawing.Size(50, 75);
-            this.ruutu5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.ruutu5.TabIndex = 43;
-            this.ruutu5.TabStop = false;
-            this.ruutu5.Click += new System.EventHandler(this.kortti_klik);
+            this.ruutu_5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ruutu_5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.ruutu_5.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.ruutu_5.Image = global::Sökö_laskuri.Properties.Resources._5_409cb091d7e78524f457c47453621e0b;
+            this.ruutu_5.Location = new System.Drawing.Point(174, 262);
+            this.ruutu_5.Name = "ruutu_5";
+            this.ruutu_5.Size = new System.Drawing.Size(50, 75);
+            this.ruutu_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.ruutu_5.TabIndex = 43;
+            this.ruutu_5.TabStop = false;
+            this.ruutu_5.Click += new System.EventHandler(this.kortti_klik);
             // 
             // ruutu4
             // 
@@ -1649,7 +1649,7 @@
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.kasi1_5);
-            this.groupBox3.Controls.Add(this.checkBox1);
+            this.groupBox3.Controls.Add(this.cb1);
             this.groupBox3.Controls.Add(this.kasi1_4);
             this.groupBox3.Controls.Add(this.kasi1_3);
             this.groupBox3.Controls.Add(this.kasi1_2);
@@ -1673,18 +1673,18 @@
             this.kasi1_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_5.TabIndex = 57;
             this.kasi1_5.TabStop = false;
-            this.kasi1_5.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox1
+            // cb1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(226, 19);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(54, 17);
-            this.checkBox1.TabIndex = 2;
-            this.checkBox1.Text = "FOLD";
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.cb1.AutoSize = true;
+            this.cb1.Location = new System.Drawing.Point(226, 19);
+            this.cb1.Name = "cb1";
+            this.cb1.Size = new System.Drawing.Size(54, 17);
+            this.cb1.TabIndex = 2;
+            this.cb1.Text = "FOLD";
+            this.cb1.UseVisualStyleBackColor = true;
+            this.cb1.Click += new System.EventHandler(this.fold);
             // 
             // kasi1_4
             // 
@@ -1697,7 +1697,6 @@
             this.kasi1_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_4.TabIndex = 56;
             this.kasi1_4.TabStop = false;
-            this.kasi1_4.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_4.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // kasi1_3
@@ -1711,7 +1710,6 @@
             this.kasi1_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_3.TabIndex = 55;
             this.kasi1_3.TabStop = false;
-            this.kasi1_3.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_3.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // kasi1_2
@@ -1725,7 +1723,6 @@
             this.kasi1_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi1_2.TabIndex = 54;
             this.kasi1_2.TabStop = false;
-            this.kasi1_2.Click += new System.EventHandler(this.kasi1_kasittele);
             this.kasi1_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // pictureBox105
@@ -1745,7 +1742,7 @@
             // groupBox4
             // 
             this.groupBox4.Controls.Add(this.kasi2_5);
-            this.groupBox4.Controls.Add(this.checkBox2);
+            this.groupBox4.Controls.Add(this.cb2);
             this.groupBox4.Controls.Add(this.kasi2_4);
             this.groupBox4.Controls.Add(this.kasi2_3);
             this.groupBox4.Controls.Add(this.kasi2_2);
@@ -1771,15 +1768,16 @@
             this.kasi2_5.TabStop = false;
             this.kasi2_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox2
+            // cb2
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(226, 19);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(54, 17);
-            this.checkBox2.TabIndex = 2;
-            this.checkBox2.Text = "FOLD";
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.cb2.AutoSize = true;
+            this.cb2.Location = new System.Drawing.Point(226, 19);
+            this.cb2.Name = "cb2";
+            this.cb2.Size = new System.Drawing.Size(54, 17);
+            this.cb2.TabIndex = 2;
+            this.cb2.Text = "FOLD";
+            this.cb2.UseVisualStyleBackColor = true;
+            this.cb2.Click += new System.EventHandler(this.fold);
             // 
             // kasi2_4
             // 
@@ -1836,7 +1834,7 @@
             // groupBox5
             // 
             this.groupBox5.Controls.Add(this.kasi3_5);
-            this.groupBox5.Controls.Add(this.checkBox3);
+            this.groupBox5.Controls.Add(this.cb3);
             this.groupBox5.Controls.Add(this.kasi3_4);
             this.groupBox5.Controls.Add(this.kasi3_3);
             this.groupBox5.Controls.Add(this.kasi3_2);
@@ -1862,15 +1860,16 @@
             this.kasi3_5.TabStop = false;
             this.kasi3_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox3
+            // cb3
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(226, 19);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(54, 17);
-            this.checkBox3.TabIndex = 2;
-            this.checkBox3.Text = "FOLD";
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.cb3.AutoSize = true;
+            this.cb3.Location = new System.Drawing.Point(226, 19);
+            this.cb3.Name = "cb3";
+            this.cb3.Size = new System.Drawing.Size(54, 17);
+            this.cb3.TabIndex = 2;
+            this.cb3.Text = "FOLD";
+            this.cb3.UseVisualStyleBackColor = true;
+            this.cb3.Click += new System.EventHandler(this.fold);
             // 
             // kasi3_4
             // 
@@ -1909,6 +1908,7 @@
             this.kasi3_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.kasi3_2.TabIndex = 54;
             this.kasi3_2.TabStop = false;
+          
             this.kasi3_2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
             // pictureBox119
@@ -1927,7 +1927,7 @@
             // groupBox6
             // 
             this.groupBox6.Controls.Add(this.kasi4_5);
-            this.groupBox6.Controls.Add(this.checkBox4);
+            this.groupBox6.Controls.Add(this.cb4);
             this.groupBox6.Controls.Add(this.kasi4_4);
             this.groupBox6.Controls.Add(this.kasi4_3);
             this.groupBox6.Controls.Add(this.kasi4_2);
@@ -1953,15 +1953,16 @@
             this.kasi4_5.TabStop = false;
             this.kasi4_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox4
+            // cb4
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(226, 19);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(54, 17);
-            this.checkBox4.TabIndex = 2;
-            this.checkBox4.Text = "FOLD";
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.cb4.AutoSize = true;
+            this.cb4.Location = new System.Drawing.Point(226, 19);
+            this.cb4.Name = "cb4";
+            this.cb4.Size = new System.Drawing.Size(54, 17);
+            this.cb4.TabIndex = 2;
+            this.cb4.Text = "FOLD";
+            this.cb4.UseVisualStyleBackColor = true;
+            this.cb4.Click += new System.EventHandler(this.fold);
             // 
             // kasi4_4
             // 
@@ -2018,7 +2019,7 @@
             // groupBox7
             // 
             this.groupBox7.Controls.Add(this.kasi5_5);
-            this.groupBox7.Controls.Add(this.checkBox5);
+            this.groupBox7.Controls.Add(this.cb5);
             this.groupBox7.Controls.Add(this.kasi5_4);
             this.groupBox7.Controls.Add(this.kasi5_3);
             this.groupBox7.Controls.Add(this.kasi5_2);
@@ -2044,15 +2045,16 @@
             this.kasi5_5.TabStop = false;
             this.kasi5_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox5
+            // cb5
             // 
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(226, 19);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(54, 17);
-            this.checkBox5.TabIndex = 2;
-            this.checkBox5.Text = "FOLD";
-            this.checkBox5.UseVisualStyleBackColor = true;
+            this.cb5.AutoSize = true;
+            this.cb5.Location = new System.Drawing.Point(226, 19);
+            this.cb5.Name = "cb5";
+            this.cb5.Size = new System.Drawing.Size(54, 17);
+            this.cb5.TabIndex = 2;
+            this.cb5.Text = "FOLD";
+            this.cb5.UseVisualStyleBackColor = true;
+            this.cb5.Click += new System.EventHandler(this.fold);
             // 
             // kasi5_4
             // 
@@ -2109,7 +2111,7 @@
             // groupBox8
             // 
             this.groupBox8.Controls.Add(this.kasi6_5);
-            this.groupBox8.Controls.Add(this.checkBox6);
+            this.groupBox8.Controls.Add(this.cb6);
             this.groupBox8.Controls.Add(this.kasi6_4);
             this.groupBox8.Controls.Add(this.kasi6_3);
             this.groupBox8.Controls.Add(this.kasi6_2);
@@ -2135,15 +2137,16 @@
             this.kasi6_5.TabStop = false;
             this.kasi6_5.MouseClick += new System.Windows.Forms.MouseEventHandler(this.kasi_klik);
             // 
-            // checkBox6
+            // cb6
             // 
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Location = new System.Drawing.Point(226, 19);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(54, 17);
-            this.checkBox6.TabIndex = 2;
-            this.checkBox6.Text = "FOLD";
-            this.checkBox6.UseVisualStyleBackColor = true;
+            this.cb6.AutoSize = true;
+            this.cb6.Location = new System.Drawing.Point(226, 19);
+            this.cb6.Name = "cb6";
+            this.cb6.Size = new System.Drawing.Size(54, 17);
+            this.cb6.TabIndex = 2;
+            this.cb6.Text = "FOLD";
+            this.cb6.UseVisualStyleBackColor = true;
+            this.cb6.Click += new System.EventHandler(this.fold);
             // 
             // kasi6_4
             // 
@@ -2289,7 +2292,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.ruutu8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ruutu5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ruutu_5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ruutu2)).EndInit();
@@ -2375,6 +2378,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox134)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             
+            this.ResumeLayout(false);
 
         }
 
@@ -2443,7 +2447,7 @@
         private System.Windows.Forms.PictureBox ruutu8;
         private System.Windows.Forms.PictureBox ruutu7;
         private System.Windows.Forms.PictureBox ruutu6;
-        private System.Windows.Forms.PictureBox ruutu5;
+        private System.Windows.Forms.PictureBox ruutu_5;
         private System.Windows.Forms.PictureBox ruutu4;
         private System.Windows.Forms.PictureBox ruutu3;
         private System.Windows.Forms.PictureBox ruutu2;
@@ -2486,7 +2490,7 @@
         private System.Windows.Forms.PictureBox Pata_4;
         private System.Windows.Forms.PictureBox Pata_3;
         private System.Windows.Forms.GroupBox groupBox3;
-        private System.Windows.Forms.CheckBox checkBox1;
+        private System.Windows.Forms.CheckBox cb1;
         private System.Windows.Forms.PictureBox kasi1_4;
         private System.Windows.Forms.PictureBox kasi1_3;
         private System.Windows.Forms.PictureBox kasi1_2;
@@ -2494,31 +2498,31 @@
         private System.Windows.Forms.GroupBox groupBox9;
         private System.Windows.Forms.Button resetButton;
         private System.Windows.Forms.GroupBox groupBox4;
-        private System.Windows.Forms.CheckBox checkBox2;
+        private System.Windows.Forms.CheckBox cb2;
         private System.Windows.Forms.PictureBox kasi2_4;
         private System.Windows.Forms.PictureBox kasi2_3;
         private System.Windows.Forms.PictureBox kasi2_2;
         private System.Windows.Forms.PictureBox pictureBox114;
         private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.CheckBox checkBox3;
+        private System.Windows.Forms.CheckBox cb3;
         private System.Windows.Forms.PictureBox kasi3_4;
         private System.Windows.Forms.PictureBox kasi3_3;
         private System.Windows.Forms.PictureBox kasi3_2;
         private System.Windows.Forms.PictureBox pictureBox119;
         private System.Windows.Forms.GroupBox groupBox6;
-        private System.Windows.Forms.CheckBox checkBox4;
+        private System.Windows.Forms.CheckBox cb4;
         private System.Windows.Forms.PictureBox kasi4_4;
         private System.Windows.Forms.PictureBox kasi4_3;
         private System.Windows.Forms.PictureBox kasi4_2;
         private System.Windows.Forms.PictureBox pictureBox124;
         private System.Windows.Forms.GroupBox groupBox7;
-        private System.Windows.Forms.CheckBox checkBox5;
+        private System.Windows.Forms.CheckBox cb5;
         private System.Windows.Forms.PictureBox kasi5_4;
         private System.Windows.Forms.PictureBox kasi5_3;
         private System.Windows.Forms.PictureBox kasi5_2;
         private System.Windows.Forms.PictureBox pictureBox129;
         private System.Windows.Forms.GroupBox groupBox8;
-        private System.Windows.Forms.CheckBox checkBox6;
+        private System.Windows.Forms.CheckBox cb6;
         private System.Windows.Forms.PictureBox kasi6_4;
         private System.Windows.Forms.PictureBox kasi6_3;
         private System.Windows.Forms.PictureBox kasi6_2;
